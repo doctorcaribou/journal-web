@@ -1,4 +1,5 @@
 import { Heart } from 'lucide-react'
+import { Fragment } from 'react/jsx-runtime'
 
 import { Separator } from '@/components/ui/separator'
 
@@ -69,11 +70,12 @@ function ClinicsTable({
       <span className="font-semibold">Walk In</span>
       <span className="font-semibold">Fav</span>
       {clinics.map(clinic => (
-        <div key={clinic.id}>
+        <Fragment key={clinic.id}>
           <Separator className="col-span-6 bg-orange-300" />
           <Row clinic={clinic} onSelect={onSelect} />
-        </div>
-      ))}
+        </Fragment>
+      ),
+      )}
     </div>
   )
 }
