@@ -63,26 +63,26 @@ function ClinicDisplay({
     <>
       <Controls className="basis-16 flex-shrink-0 m-2" />
       <div className="flex-grow flex flex-wrap gap-4 m-2">
+        {details !== null
+          ? (
+              <ClinicDetails
+                props={details}
+                isVisible={selectedId !== null}
+                onBack={() => setSelectedId(null)}
+              />
+            )
+          : null}
         <div className="flex-grow basis-[450px] min-h-[450px] overflow-y-auto max-h-screen">
           <ClinicsTable
             clinics={filteredClinics.map(getRow)}
             onSelect={setSelectedId}
+            isVisible={selectedId === null}
           />
         </div>
         <div className="flex-grow basis-[450px] min-h-[450px]">
-          {details !== null
-            ? (
-                <ClinicDetails
-                  props={details}
-                  isVisible={selectedId !== null}
-                  onBack={() => setSelectedId(null)}
-                />
-              )
-            : null}
           <ClinicsMap
             clinics={filteredClinics}
             setSelectedId={setSelectedId}
-            isVisible={selectedId === null}
           />
         </div>
       </div>

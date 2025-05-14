@@ -40,7 +40,7 @@ function ClinicDetails({
     <div className={visibility}>
       <div className="my-3 flex gap-2">
         <ArrowLeft className="h-5 w-5" onClick={onBack} />
-        <span className="text-sm font-bold">Back to map</span>
+        <span className="text-sm font-bold">Back to table</span>
       </div>
       <Separator className="bg-orange-300" />
       <Summary

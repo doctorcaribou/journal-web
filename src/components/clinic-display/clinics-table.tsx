@@ -57,25 +57,30 @@ function Row({ clinic, onSelect }: RowProps) {
 function ClinicsTable({
   clinics,
   onSelect,
+  isVisible,
 }: {
   clinics: RowClinic[]
   onSelect: (id: number) => void
+  isVisible: boolean
 }) {
+  const visibility = isVisible ? 'visible' : 'invisible'
   return (
-    <div className="grid grid-cols-[1fr_1fr_2fr_3fr_1fr_1fr] gap-2 justify-between justify-items-center items-center text-sm">
-      <span className="font-semibold">Name</span>
-      <span className="font-semibold">Rent</span>
-      <span className="font-semibold">GMF</span>
-      <span className="font-semibold">LSA</span>
-      <span className="font-semibold">Walk In</span>
-      <span className="font-semibold">Fav</span>
-      {clinics.map(clinic => (
-        <Fragment key={clinic.id}>
-          <Separator className="col-span-6 bg-orange-300" />
-          <Row clinic={clinic} onSelect={onSelect} />
-        </Fragment>
-      ),
-      )}
+    <div className={visibility}>
+      <div className="grid grid-cols-[1fr_1fr_2fr_3fr_1fr_1fr] gap-2 justify-between justify-items-center items-center text-sm">
+        <span className="font-semibold">Name</span>
+        <span className="font-semibold">Rent</span>
+        <span className="font-semibold">GMF</span>
+        <span className="font-semibold">LSA</span>
+        <span className="font-semibold">Walk In</span>
+        <span className="font-semibold">Fav</span>
+        {clinics.map(clinic => (
+          <Fragment key={clinic.id}>
+            <Separator className="col-span-6 bg-orange-300" />
+            <Row clinic={clinic} onSelect={onSelect} />
+          </Fragment>
+        ),
+        )}
+      </div>
     </div>
   )
 }
