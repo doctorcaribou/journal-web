@@ -6,163 +6,78 @@
       "longitude": -73.48833465553646,
       "latitude": 45.65245056145062
     },
-    "rent": 8,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "372.405.6176x474",
-    "email": "danielbennett@example.net",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 12,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 10,
-      "hasIncreased": false
-    }
+    "email": "danielbennett@example.net"
   },
   {
     "id": 1,
-    "name": "Groupe Roy Sant\u00e9 inc.",
+    "name": "Groupe Roy Santé inc.",
     "location": {
       "longitude": -73.5729370116278,
       "latitude": 45.51221466048644
     },
-    "rent": 9,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(249)851-1307x72234",
-    "email": "glenn89@example.org",
-    "nurseStats": {
-      "number": 7,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 12,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "glenn89@example.org"
   },
   {
     "id": 2,
-    "name": "Centre r\u00e9gional de sant\u00e9 et de services sociaux de la Baie-James",
+    "name": "Centre régional de santé et de services sociaux de la Baie-James",
     "location": {
       "longitude": -74.35707855214297,
       "latitude": 49.913394928034776
     },
-    "rent": 7,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(384)886-9098x871",
-    "email": "greendaniel@example.net",
-    "nurseStats": {
-      "number": 5,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "greendaniel@example.net"
   },
   {
     "id": 3,
-    "name": "Centre hospitalier de l'Universit\u00e9 de Montr\u00e9al",
+    "name": "Centre hospitalier de l'Université de Montréal",
     "location": {
       "longitude": -73.55594635000583,
       "latitude": 45.51083755503012
     },
-    "rent": 10,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "001-275-383-1474x3496",
-    "email": "watkinskenneth@example.com",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 11,
-      "hasIncreased": true
-    }
+    "email": "watkinskenneth@example.com"
   },
   {
     "id": 4,
-    "name": "CHSLD R\u00e9sidence Bourg-Joli inc.",
+    "name": "CHSLD Résidence Bourg-Joli inc.",
     "location": {
       "longitude": -72.96422576872573,
       "latitude": 45.633514404419834
     },
-    "rent": 10,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(219)893-1435",
-    "email": "james45@example.net",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 9,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 10,
-      "hasIncreased": false
-    }
+    "email": "james45@example.net"
   },
   {
     "id": 5,
@@ -171,97 +86,46 @@
       "longitude": -73.78733062706682,
       "latitude": 47.90256500268673
     },
-    "rent": 5,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": true,
     "phoneNumber": "633.544.2620x086",
-    "email": "chelsea29@example.org",
-    "nurseStats": {
-      "number": 10,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "chelsea29@example.org"
   },
   {
     "id": 6,
-    "name": "Le CHSLD des Premi\u00e8res Nations du Timiskaming",
+    "name": "Le CHSLD des Premières Nations du Timiskaming",
     "location": {
       "longitude": -79.4703979488069,
       "latitude": 47.607013702463334
     },
-    "rent": 1,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "896-315-9822x113",
-    "email": "susan62@example.net",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "susan62@example.net"
   },
   {
     "id": 7,
-    "name": "CHSLD de la C\u00f4te Bois\u00e9e inc.",
+    "name": "CHSLD de la Côte Boisée inc.",
     "location": {
       "longitude": -73.66159057651276,
       "latitude": 45.71275711065372
     },
-    "rent": 2,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "2047726386",
-    "email": "paige35@example.net",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "paige35@example.net"
   },
   {
     "id": 8,
@@ -270,64 +134,30 @@
       "longitude": -66.76425170864223,
       "latitude": 54.86124801627056
     },
-    "rent": 3,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(710)462-4429x80570",
-    "email": "qmcdaniel@example.net",
-    "nurseStats": {
-      "number": 6,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 5,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "qmcdaniel@example.net"
   },
   {
     "id": 9,
-    "name": "Centre d'h\u00e9bergement de la Mar\u00e9e inc.",
+    "name": "Centre d'hébergement de la Marée inc.",
     "location": {
       "longitude": -73.6190414427874,
       "latitude": 45.630062103484015
     },
-    "rent": 9,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "826.285.9521",
-    "email": "xwilliams@example.net",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 6,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 2,
-      "changePercentage": 14,
-      "hasIncreased": false
-    }
+    "email": "xwilliams@example.net"
   },
   {
     "id": 10,
@@ -336,130 +166,62 @@
       "longitude": -73.85889434823758,
       "latitude": 45.56219100938229
     },
-    "rent": 5,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "8575173108",
-    "email": "omar17@example.net",
-    "nurseStats": {
-      "number": 5,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "omar17@example.net"
   },
   {
     "id": 11,
-    "name": "Sant\u00e9 Courville inc.",
+    "name": "Santé Courville inc.",
     "location": {
       "longitude": -73.85500335666985,
       "latitude": 45.54328918462736
     },
-    "rent": 5,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "7908193364",
-    "email": "michele36@example.net",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 3,
-      "changePercentage": 13,
-      "hasIncreased": false
-    }
+    "email": "michele36@example.net"
   },
   {
     "id": 12,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux des \u00celes",
+    "name": "Centre intégré de santé et de services sociaux des Îles",
     "location": {
       "longitude": -61.86877059912095,
       "latitude": 47.375576019080476
     },
-    "rent": 10,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "399.769.8706x4296",
-    "email": "vharris@example.org",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 12,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "vharris@example.org"
   },
   {
     "id": 13,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e du Manoir-de-l'Ouest-de-l'\u00cele, S.E.C.",
+    "name": "Centre d'hébergement et de soins de longue durée du Manoir-de-l'Ouest-de-l'Île, S.E.C.",
     "location": {
       "longitude": -73.88561248788055,
       "latitude": 45.46285247788745
     },
-    "rent": 3,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "001-460-804-8982x727",
-    "email": "derek09@example.com",
-    "nurseStats": {
-      "number": 5,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "derek09@example.com"
   },
   {
     "id": 14,
@@ -468,163 +230,78 @@
       "longitude": -73.60374450702291,
       "latitude": 45.61606979385253
     },
-    "rent": 1,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "313-800-0825",
-    "email": "torrescraig@example.com",
-    "nurseStats": {
-      "number": 2,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 7,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "torrescraig@example.com"
   },
   {
     "id": 15,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e du Ch\u00e2teau-sur-le-Lac-de-Sainte-Genevi\u00e8ve inc.",
+    "name": "Centre d'hébergement et de soins de longue durée du Château-sur-le-Lac-de-Sainte-Geneviève inc.",
     "location": {
       "longitude": -73.87446594210354,
       "latitude": 45.47798919672922
     },
-    "rent": 4,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "2353543668",
-    "email": "lwatkins@example.com",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 6,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 3,
-      "changePercentage": 10,
-      "hasIncreased": true
-    }
+    "email": "lwatkins@example.com"
   },
   {
     "id": 16,
-    "name": "Vigi Sant\u00e9 Lt\u00e9e",
+    "name": "Vigi Santé Ltée",
     "location": {
       "longitude": -73.81611633276098,
       "latitude": 45.48020172147397
     },
-    "rent": 9,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(666)787-1161x062",
-    "email": "hamiltonbrent@example.org",
-    "nurseStats": {
-      "number": 10,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "hamiltonbrent@example.org"
   },
   {
     "id": 17,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e Providence - Saint-Joseph inc.",
+    "name": "Centre d'hébergement et de soins de longue durée Providence - Saint-Joseph inc.",
     "location": {
       "longitude": -73.56745910658482,
       "latitude": 45.57892608672326
     },
-    "rent": 6,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "9136889176",
-    "email": "aglover@example.org",
-    "nurseStats": {
-      "number": 11,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 2,
-      "changePercentage": 10,
-      "hasIncreased": true
-    }
+    "email": "aglover@example.org"
   },
   {
     "id": 18,
-    "name": "Maison des a\u00een\u00e9s de Saint-Timoth\u00e9e inc.",
+    "name": "Maison des aînés de Saint-Timothée inc.",
     "location": {
       "longitude": -74.03670501696188,
       "latitude": 45.28935623184811
     },
-    "rent": 6,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "400.732.6945",
-    "email": "stephenferrell@example.org",
-    "nurseStats": {
-      "number": 9,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 9,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "stephenferrell@example.org"
   },
   {
     "id": 19,
@@ -633,196 +310,94 @@
       "longitude": -71.24160003684817,
       "latitude": 46.79501342755088
     },
-    "rent": 4,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(332)250-4992x9219",
-    "email": "atkinsonvictor@example.net",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 12,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "atkinsonvictor@example.net"
   },
   {
     "id": 20,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e de Saint-Lambert-sur-le-Golf inc.",
+    "name": "Centre d'hébergement et de soins de longue durée de Saint-Lambert-sur-le-Golf inc.",
     "location": {
       "longitude": -73.44436645495344,
       "latitude": 45.60248947153856
     },
-    "rent": 2,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "229.287.7224x250",
-    "email": "arnoldnathaniel@example.net",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 7,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 11,
-      "hasIncreased": true
-    }
+    "email": "arnoldnathaniel@example.net"
   },
   {
     "id": 21,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e de Sainte-Th\u00e9r\u00e8se inc.",
+    "name": "Centre d'hébergement et de soins de longue durée de Sainte-Thérèse inc.",
     "location": {
       "longitude": -73.84092712357864,
       "latitude": 45.64916229261078
     },
-    "rent": 2,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "001-851-924-6500x120",
-    "email": "carlacarter@example.com",
-    "nurseStats": {
-      "number": 7,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 7,
-      "changePercentage": 10,
-      "hasIncreased": false
-    }
+    "email": "carlacarter@example.com"
   },
   {
     "id": 22,
-    "name": "Centre de r\u00e9adaptation en d\u00e9pendance du Nouveau D\u00e9part inc.",
+    "name": "Centre de réadaptation en dépendance du Nouveau Départ inc.",
     "location": {
       "longitude": -73.6224365229958,
       "latitude": 45.52230453502446
     },
-    "rent": 4,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(500)807-1965x162",
-    "email": "jenkinslinda@example.org",
-    "nurseStats": {
-      "number": 5,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 3,
-      "changePercentage": 10,
-      "hasIncreased": true
-    }
+    "email": "jenkinslinda@example.org"
   },
   {
     "id": 23,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e de Sainte-Catherine S.E.C.",
+    "name": "Centre d'hébergement et de soins de longue durée de Sainte-Catherine S.E.C.",
     "location": {
       "longitude": -73.54337310797942,
       "latitude": 45.40030670168091
     },
-    "rent": 7,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(250)899-6293",
-    "email": "hubbardsamantha@example.com",
-    "nurseStats": {
-      "number": 7,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 11,
-      "hasIncreased": false
-    }
+    "email": "hubbardsamantha@example.com"
   },
   {
     "id": 24,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e Wales inc.",
+    "name": "Centre d'hébergement et de soins de longue durée Wales inc.",
     "location": {
       "longitude": -72.17380523703825,
       "latitude": 45.67542266845913
     },
-    "rent": 4,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(213)819-7264x067",
-    "email": "terryboyer@example.com",
-    "nurseStats": {
-      "number": 5,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 5,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 15,
-      "hasIncreased": true
-    }
+    "email": "terryboyer@example.com"
   },
   {
     "id": 25,
@@ -831,1318 +406,638 @@
       "longitude": -73.76766967744871,
       "latitude": 45.547000884974786
     },
-    "rent": 7,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(576)285-3634",
-    "email": "wallacemathew@example.net",
-    "nurseStats": {
-      "number": 6,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 10,
-      "hasIncreased": false
-    }
+    "email": "wallacemathew@example.net"
   },
   {
     "id": 26,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e de Laval S.E.C.",
+    "name": "Centre d'hébergement et de soins de longue durée de Laval S.E.C.",
     "location": {
       "longitude": -73.76655578625935,
       "latitude": 45.570861816200015
     },
-    "rent": 5,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-535-543-9289x631",
-    "email": "anthony80@example.net",
-    "nurseStats": {
-      "number": 7,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 10,
-      "changePercentage": 13,
-      "hasIncreased": false
-    }
+    "email": "anthony80@example.net"
   },
   {
     "id": 27,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e de Granby S.E.C.",
+    "name": "Centre d'hébergement et de soins de longue durée de Granby S.E.C.",
     "location": {
       "longitude": -72.76215362538676,
       "latitude": 45.407470703398005
     },
-    "rent": 10,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": true,
     "phoneNumber": "415.399.5255",
-    "email": "sbrown@example.net",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 5,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "sbrown@example.net"
   },
   {
     "id": 28,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux du Bas-Saint-Laurent",
+    "name": "Centre intégré de santé et de services sociaux du Bas-Saint-Laurent",
     "location": {
       "longitude": -68.54048156732163,
       "latitude": 48.44335556041607
     },
-    "rent": 2,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-745-387-8752x185",
-    "email": "joseph68@example.net",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "joseph68@example.net"
   },
   {
     "id": 29,
-    "name": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux du Saguenay \u2013 Lac-Saint-Jean",
+    "name": "Centre intégré universitaire de santé et de services sociaux du Saguenay – Lac-Saint-Jean",
     "location": {
       "longitude": -71.04003906275365,
       "latitude": 48.421310425085906
     },
-    "rent": 8,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": true,
     "phoneNumber": "260-736-6207",
-    "email": "jason69@example.org",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 2,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "jason69@example.org"
   },
   {
     "id": 30,
-    "name": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux de la Capitale-Nationale",
+    "name": "Centre intégré universitaire de santé et de services sociaux de la Capitale-Nationale",
     "location": {
       "longitude": -71.21976470969497,
       "latitude": 46.85663604706163
     },
-    "rent": 3,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "938-233-7972x59963",
-    "email": "katiejensen@example.org",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "katiejensen@example.org"
   },
   {
     "id": 31,
-    "name": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux de la Mauricie-et-du-Centre-du-Qu\u00e9bec",
+    "name": "Centre intégré universitaire de santé et de services sociaux de la Mauricie-et-du-Centre-du-Québec",
     "location": {
       "longitude": -72.53710174524005,
       "latitude": 46.342796325428104
     },
-    "rent": 5,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(477)997-1180",
-    "email": "thomas32@example.com",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 13,
-      "hasIncreased": false
-    }
+    "email": "thomas32@example.com"
   },
   {
     "id": 32,
-    "name": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux de l'Estrie \u2013 Centre hospitalier universitaire de Sherbrooke",
+    "name": "Centre intégré universitaire de santé et de services sociaux de l'Estrie – Centre hospitalier universitaire de Sherbrooke",
     "location": {
       "longitude": -71.91508483870761,
       "latitude": 45.40424346936933
     },
-    "rent": 6,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "536.861.7183",
-    "email": "john39@example.net",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 5,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 3,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "john39@example.net"
   },
   {
     "id": 33,
-    "name": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux de l'Ouest-de-l'\u00cele-de-Montr\u00e9al",
+    "name": "Centre intégré universitaire de santé et de services sociaux de l'Ouest-de-l'Île-de-Montréal",
     "location": {
       "longitude": -73.83367157026768,
       "latitude": 45.44855117799336
     },
-    "rent": 5,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "322-745-7780",
-    "email": "robertskatherine@example.com",
-    "nurseStats": {
-      "number": 10,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 11,
-      "hasIncreased": true
-    }
+    "email": "robertskatherine@example.com"
   },
   {
     "id": 34,
-    "name": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux du Centre-Ouest-de-l'\u00cele-de-Montr\u00e9al",
+    "name": "Centre intégré universitaire de santé et de services sociaux du Centre-Ouest-de-l'Île-de-Montréal",
     "location": {
       "longitude": -73.62880706776694,
       "latitude": 45.49781036401238
     },
-    "rent": 8,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "001-264-575-1784x865",
-    "email": "aross@example.net",
-    "nurseStats": {
-      "number": 10,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "aross@example.net"
   },
   {
     "id": 35,
-    "name": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux du Centre-Sud-de-l'\u00cele-de-Montr\u00e9al",
+    "name": "Centre intégré universitaire de santé et de services sociaux du Centre-Sud-de-l'Île-de-Montréal",
     "location": {
       "longitude": -73.56356048562539,
       "latitude": 45.52535629250618
     },
-    "rent": 5,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(620)548-0164x7072",
-    "email": "matthewmccoy@example.net",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "matthewmccoy@example.net"
   },
   {
     "id": 36,
-    "name": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux du Nord-de-l'\u00cele-de-Montr\u00e9al",
+    "name": "Centre intégré universitaire de santé et de services sociaux du Nord-de-l'Île-de-Montréal",
     "location": {
       "longitude": -73.68765258757053,
       "latitude": 45.54759979234269
     },
-    "rent": 10,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": true,
     "phoneNumber": "2709649980",
-    "email": "ltorres@example.com",
-    "nurseStats": {
-      "number": 6,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 8,
-      "changePercentage": 14,
-      "hasIncreased": false
-    }
+    "email": "ltorres@example.com"
   },
   {
     "id": 37,
-    "name": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux de l'Est-de-l'\u00cele-de-Montr\u00e9al",
+    "name": "Centre intégré universitaire de santé et de services sociaux de l'Est-de-l'Île-de-Montréal",
     "location": {
       "longitude": -73.5584640501678,
       "latitude": 45.574214935574446
     },
-    "rent": 6,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "613.996.1771x7230",
-    "email": "patricia12@example.org",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 6,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 10,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "patricia12@example.org"
   },
   {
     "id": 38,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de l'Outaouais",
+    "name": "Centre intégré de santé et de services sociaux de l'Outaouais",
     "location": {
       "longitude": -75.72293090842402,
       "latitude": 45.4801902769372
     },
-    "rent": 6,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(230)851-7131",
-    "email": "deborahreynolds@example.net",
-    "nurseStats": {
-      "number": 5,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 7,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "deborahreynolds@example.net"
   },
   {
     "id": 39,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de l'Abitibi-T\u00e9miscamingue",
+    "name": "Centre intégré de santé et de services sociaux de l'Abitibi-Témiscamingue",
     "location": {
       "longitude": -79.02100372284069,
       "latitude": 48.24335861202864
     },
-    "rent": 9,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "563-477-1357x1068",
-    "email": "lynchcarrie@example.com",
-    "nurseStats": {
-      "number": 5,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 7,
-      "changePercentage": 14,
-      "hasIncreased": false
-    }
+    "email": "lynchcarrie@example.com"
   },
   {
     "id": 40,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de la C\u00f4te-Nord",
+    "name": "Centre intégré de santé et de services sociaux de la Côte-Nord",
     "location": {
       "longitude": -68.25695037817334,
       "latitude": 49.19044113171666
     },
-    "rent": 6,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "001-976-513-6097x1920",
-    "email": "michaeldavidson@example.com",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 7,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 10,
-      "hasIncreased": false
-    }
+    "email": "michaeldavidson@example.com"
   },
   {
     "id": 41,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de la Gasp\u00e9sie",
+    "name": "Centre intégré de santé et de services sociaux de la Gaspésie",
     "location": {
       "longitude": -64.49665069554766,
       "latitude": 48.812942504605665
     },
-    "rent": 2,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "795-216-3293x58405",
-    "email": "laura11@example.com",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 8,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 10,
-      "hasIncreased": false
-    }
+    "email": "laura11@example.com"
   },
   {
     "id": 42,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de Laval",
+    "name": "Centre intégré de santé et de services sociaux de Laval",
     "location": {
       "longitude": -73.71082305917095,
       "latitude": 45.60332107568234
     },
-    "rent": 8,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(336)448-3036x97338",
-    "email": "ukennedy@example.net",
-    "nurseStats": {
-      "number": 11,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 7,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "ukennedy@example.net"
   },
   {
     "id": 43,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de Lanaudi\u00e8re",
+    "name": "Centre intégré de santé et de services sociaux de Lanaudière",
     "location": {
       "longitude": -73.44107055683725,
       "latitude": 46.01818466190194
     },
-    "rent": 8,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "214-349-9401x45077",
-    "email": "matthew35@example.org",
-    "nurseStats": {
-      "number": 9,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 12,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 3,
-      "changePercentage": 14,
-      "hasIncreased": false
-    }
+    "email": "matthew35@example.org"
   },
   {
     "id": 44,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux des Laurentides",
+    "name": "Centre intégré de santé et de services sociaux des Laurentides",
     "location": {
       "longitude": -74.00019073477253,
       "latitude": 45.76557159396622
     },
-    "rent": 10,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "781.346.2826x501",
-    "email": "wpeterson@example.org",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 9,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 10,
-      "hasIncreased": false
-    }
+    "email": "wpeterson@example.org"
   },
   {
     "id": 45,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de la Mont\u00e9r\u00e9gie-Centre",
+    "name": "Centre intégré de santé et de services sociaux de la Montérégie-Centre",
     "location": {
       "longitude": -73.48420715372411,
       "latitude": 45.49775314344991
     },
-    "rent": 10,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "235.698.5146x067",
-    "email": "bellwilliam@example.org",
-    "nurseStats": {
-      "number": 11,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 7,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 12,
-      "hasIncreased": true
-    }
+    "email": "bellwilliam@example.org"
   },
   {
     "id": 46,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de la Mont\u00e9r\u00e9gie-Est",
+    "name": "Centre intégré de santé et de services sociaux de la Montérégie-Est",
     "location": {
       "longitude": -72.95947265589498,
       "latitude": 45.634834289512746
     },
-    "rent": 5,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-226-498-0867x37873",
-    "email": "qrogers@example.net",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 2,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "qrogers@example.net"
   },
   {
     "id": 47,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de la Mont\u00e9r\u00e9gie-Ouest",
+    "name": "Centre intégré de santé et de services sociaux de la Montérégie-Ouest",
     "location": {
       "longitude": -73.76344299354416,
       "latitude": 45.345661163232975
     },
-    "rent": 4,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(298)507-7426x057",
-    "email": "flynndaniel@example.org",
-    "nurseStats": {
-      "number": 9,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 12,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 2,
-      "changePercentage": 14,
-      "hasIncreased": false
-    }
+    "email": "flynndaniel@example.org"
   },
   {
     "id": 48,
-    "name": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de Chaudi\u00e8re-Appalaches",
+    "name": "Centre intégré de santé et de services sociaux de Chaudière-Appalaches",
     "location": {
       "longitude": -71.0452041627366,
       "latitude": 46.464801788363204
     },
-    "rent": 8,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "750.210.2702x0964",
-    "email": "bianca40@example.net",
-    "nurseStats": {
-      "number": 7,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 2,
-      "changePercentage": 11,
-      "hasIncreased": false
-    }
+    "email": "bianca40@example.net"
   },
   {
     "id": 49,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e au C\u0153ur-de-la-Vie inc.",
+    "name": "Centre d'hébergement et de soins de longue durée au Cœur-de-la-Vie inc.",
     "location": {
       "longitude": -74.01437377934764,
       "latitude": 45.77748870864193
     },
-    "rent": 4,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "363-265-2592x53604",
-    "email": "jenniferpierce@example.com",
-    "nurseStats": {
-      "number": 11,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "jenniferpierce@example.com"
   },
   {
     "id": 50,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e Louise-Faubert inc.",
+    "name": "Centre d'hébergement et de soins de longue durée Louise-Faubert inc.",
     "location": {
       "longitude": -73.72864532448911,
       "latitude": 45.687183380127664
     },
-    "rent": 10,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "612.666.5658x43130",
-    "email": "vbenson@example.org",
-    "nurseStats": {
-      "number": 2,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 12,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 15,
-      "hasIncreased": false
-    }
+    "email": "vbenson@example.org"
   },
   {
     "id": 51,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e Marguerite-Rocheleau inc.",
+    "name": "Centre d'hébergement et de soins de longue durée Marguerite-Rocheleau inc.",
     "location": {
       "longitude": -73.72864532448911,
       "latitude": 45.687183380127664
     },
-    "rent": 1,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(245)449-3475x416",
-    "email": "shawjames@example.net",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 15,
-      "hasIncreased": false
-    }
+    "email": "shawjames@example.net"
   },
   {
     "id": 52,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e Mich\u00e8le-Bohec inc.",
+    "name": "Centre d'hébergement et de soins de longue durée Michèle-Bohec inc.",
     "location": {
       "longitude": -73.72864532448911,
       "latitude": 45.687183380127664
     },
-    "rent": 1,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "643-274-6309x1276",
-    "email": "brenda94@example.org",
-    "nurseStats": {
-      "number": 11,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 12,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "brenda94@example.org"
   },
   {
     "id": 53,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e L.-B.-Desjardins inc.",
+    "name": "Centre d'hébergement et de soins de longue durée L.-B.-Desjardins inc.",
     "location": {
       "longitude": -74.15699005154639,
       "latitude": 45.889190673910555
     },
-    "rent": 3,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-903-282-6346",
-    "email": "lmiller@example.org",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 13,
-      "hasIncreased": false
-    }
+    "email": "lmiller@example.org"
   },
   {
     "id": 54,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e des Patriotes inc.",
+    "name": "Centre d'hébergement et de soins de longue durée des Patriotes inc.",
     "location": {
       "longitude": -73.67736053456312,
       "latitude": 45.605609893568335
     },
-    "rent": 1,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-442-782-3919x44200",
-    "email": "alexisdunn@example.com",
-    "nurseStats": {
-      "number": 9,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "alexisdunn@example.com"
   },
   {
     "id": 55,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e des \u00celes-de-la-Madeleine inc.",
+    "name": "Centre d'hébergement et de soins de longue durée des Îles-de-la-Madeleine inc.",
     "location": {
       "longitude": -61.873088836624326,
       "latitude": 47.373130798200314
     },
-    "rent": 5,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "660.269.0830x95455",
-    "email": "matthewhoward@example.com",
-    "nurseStats": {
-      "number": 9,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 7,
-      "changePercentage": 15,
-      "hasIncreased": false
-    }
+    "email": "matthewhoward@example.com"
   },
   {
     "id": 56,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e C\u00f4t\u00e9-Jardin inc.",
+    "name": "Centre d'hébergement et de soins de longue durée Côté-Jardin inc.",
     "location": {
       "longitude": -71.26103973410676,
       "latitude": 46.788150787077534
     },
-    "rent": 2,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "615-844-9109",
-    "email": "wcannon@example.org",
-    "nurseStats": {
-      "number": 7,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 6,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "wcannon@example.org"
   },
   {
     "id": 57,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e Angus inc.",
+    "name": "Centre d'hébergement et de soins de longue durée Angus inc.",
     "location": {
       "longitude": -73.56062316891949,
       "latitude": 45.54654312131046
     },
-    "rent": 10,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "7922753192",
-    "email": "gbranch@example.com",
-    "nurseStats": {
-      "number": 10,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 12,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 13,
-      "hasIncreased": false
-    }
+    "email": "gbranch@example.com"
   },
   {
     "id": 58,
-    "name": "CHU de Qu\u00e9bec \u2013 Universit\u00e9 Laval",
+    "name": "CHU de Québec – Université Laval",
     "location": {
       "longitude": -71.21099090563747,
       "latitude": 46.81539154033211
     },
-    "rent": 10,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(271)243-3071x8357",
-    "email": "mosescaleb@example.org",
-    "nurseStats": {
-      "number": 9,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "mosescaleb@example.org"
   },
   {
     "id": 59,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e Argyle inc.",
+    "name": "Centre d'hébergement et de soins de longue durée Argyle inc.",
     "location": {
       "longitude": -73.51470184316088,
       "latitude": 45.50154113756545
     },
-    "rent": 6,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-348-832-8109",
-    "email": "gregoryparsons@example.org",
-    "nurseStats": {
-      "number": 2,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 12,
-      "hasIncreased": true
-    }
+    "email": "gregoryparsons@example.org"
   },
   {
     "id": 60,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e Groupe-Sant\u00e9-Arbec inc.",
+    "name": "Centre d'hébergement et de soins de longue durée Groupe-Santé-Arbec inc.",
     "location": {
       "longitude": -73.70222473112274,
       "latitude": 46.05086135890969
     },
-    "rent": 8,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": true,
     "phoneNumber": "(676)569-9909x51338",
-    "email": "evelyn57@example.org",
-    "nurseStats": {
-      "number": 6,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 12,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 10,
-      "hasIncreased": true
-    }
+    "email": "evelyn57@example.org"
   },
   {
     "id": 61,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e de Saint-Jean-sur-Richelieu S.E.C.",
+    "name": "Centre d'hébergement et de soins de longue durée de Saint-Jean-sur-Richelieu S.E.C.",
     "location": {
       "longitude": -73.26149749773009,
       "latitude": 45.31158065765484
     },
-    "rent": 10,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "4542951663",
-    "email": "westmark@example.net",
-    "nurseStats": {
-      "number": 6,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 12,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 11,
-      "hasIncreased": true
-    }
+    "email": "westmark@example.net"
   },
   {
     "id": 62,
-    "name": "Centre de soins prolong\u00e9s Grace Dart",
+    "name": "Centre de soins prolongés Grace Dart",
     "location": {
       "longitude": -73.52890777591112,
       "latitude": 45.55945968643905
     },
-    "rent": 4,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "224-296-0309",
-    "email": "cervantesjohn@example.com",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "cervantesjohn@example.com"
   },
   {
     "id": 63,
-    "name": "H\u00f4pital juif de r\u00e9adaptation",
+    "name": "Hôpital juif de réadaptation",
     "location": {
       "longitude": -73.73764038090616,
       "latitude": 45.548728942677705
     },
-    "rent": 1,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "618-276-5925x198",
-    "email": "mary59@example.com",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 12,
-      "hasIncreased": true
-    }
+    "email": "mary59@example.com"
   },
   {
     "id": 64,
-    "name": "Centre de r\u00e9adaptation Lethbridge-Layton-Mackay",
+    "name": "Centre de réadaptation Lethbridge-Layton-Mackay",
     "location": {
       "longitude": -73.63413238497579,
       "latitude": 45.45834350567118
     },
-    "rent": 7,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "374.508.1454x6320",
-    "email": "nball@example.com",
-    "nurseStats": {
-      "number": 11,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 8,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "nball@example.com"
   },
   {
     "id": 65,
@@ -2151,31 +1046,14 @@
       "longitude": -73.54069519059159,
       "latitude": 45.54978561413991
     },
-    "rent": 9,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "993-415-9545x54563",
-    "email": "vturner@example.org",
-    "nurseStats": {
-      "number": 10,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 15,
-      "hasIncreased": true
-    }
+    "email": "vturner@example.org"
   },
   {
     "id": 66,
@@ -2184,97 +1062,46 @@
       "longitude": -73.58383941687015,
       "latitude": 45.529449463174224
     },
-    "rent": 10,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "410-638-7348",
-    "email": "gutierrezryan@example.com",
-    "nurseStats": {
-      "number": 10,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "gutierrezryan@example.com"
   },
   {
     "id": 67,
-    "name": "R\u00e9sidence Angelica",
+    "name": "Résidence Angelica",
     "location": {
       "longitude": -73.65133666956558,
       "latitude": 45.589939117465555
     },
-    "rent": 9,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "828-555-8542x430",
-    "email": "halljohn@example.org",
-    "nurseStats": {
-      "number": 5,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 5,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "halljohn@example.org"
   },
   {
     "id": 68,
-    "name": "Centre de sant\u00e9 et de services sociaux du Haut-Saint-Laurent",
+    "name": "Centre de santé et de services sociaux du Haut-Saint-Laurent",
     "location": {
       "longitude": -73.9998703003208,
       "latitude": 45.12634277322256
     },
-    "rent": 9,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": true,
     "phoneNumber": "001-644-907-7973x004",
-    "email": "loriweaver@example.net",
-    "nurseStats": {
-      "number": 10,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 10,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "loriweaver@example.net"
   },
   {
     "id": 69,
@@ -2283,64 +1110,30 @@
       "longitude": -73.78656768789602,
       "latitude": 45.44864654546305
     },
-    "rent": 1,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "704-923-2701x1701",
-    "email": "cadkins@example.org",
-    "nurseStats": {
-      "number": 2,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 10,
-      "hasIncreased": false
-    }
+    "email": "cadkins@example.org"
   },
   {
     "id": 70,
-    "name": "R\u00e9sidence Berthiaume-Du Tremblay",
+    "name": "Résidence Berthiaume-Du Tremblay",
     "location": {
       "longitude": -73.66305541972068,
       "latitude": 45.56741714450675
     },
-    "rent": 5,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": true,
     "phoneNumber": "(478)547-2887x2931",
-    "email": "zsmith@example.com",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 8,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 10,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "zsmith@example.com"
   },
   {
     "id": 71,
@@ -2349,163 +1142,78 @@
       "longitude": -71.25660705572774,
       "latitude": 46.78806686378135
     },
-    "rent": 1,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "389-401-3981",
-    "email": "joseph95@example.com",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 10,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "joseph95@example.com"
   },
   {
     "id": 72,
-    "name": "H\u00f4pital Jeffery Hale - Saint Brigid's",
+    "name": "Hôpital Jeffery Hale - Saint Brigid's",
     "location": {
       "longitude": -71.25308227496203,
       "latitude": 46.79664993316656
     },
-    "rent": 9,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "001-959-573-2403x00703",
-    "email": "vrodriguez@example.org",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 15,
-      "hasIncreased": true
-    }
+    "email": "vrodriguez@example.org"
   },
   {
     "id": 73,
-    "name": "H\u00f4pital Santa Cabrini",
+    "name": "Hôpital Santa Cabrini",
     "location": {
       "longitude": -73.57171630895454,
       "latitude": 45.58013916009506
     },
-    "rent": 4,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "850-884-3082x097",
-    "email": "peter59@example.org",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 3,
-      "changePercentage": 10,
-      "hasIncreased": false
-    }
+    "email": "peter59@example.org"
   },
   {
     "id": 74,
-    "name": "Institut de cardiologie de Montr\u00e9al",
+    "name": "Institut de cardiologie de Montréal",
     "location": {
       "longitude": -73.57781982411757,
       "latitude": 45.573764800985664
     },
-    "rent": 2,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-916-601-4983",
-    "email": "rosekevin@example.com",
-    "nurseStats": {
-      "number": 5,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "rosekevin@example.com"
   },
   {
     "id": 75,
-    "name": "H\u00f4pital Marie-Clarac des Soeurs de Charit\u00e9 de Ste-Marie (1995) inc.",
+    "name": "Hôpital Marie-Clarac des Soeurs de Charité de Ste-Marie (1995) inc.",
     "location": {
       "longitude": -73.64974212669861,
       "latitude": 45.59083557137844
     },
-    "rent": 5,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(286)987-4641",
-    "email": "gibsonnicole@example.com",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 10,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "gibsonnicole@example.com"
   },
   {
     "id": 76,
@@ -2514,64 +1222,30 @@
       "longitude": -73.55689239457763,
       "latitude": 45.47834777824333
     },
-    "rent": 3,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "472.709.3959x1634",
-    "email": "hortonkenneth@example.org",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 5,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "hortonkenneth@example.org"
   },
   {
     "id": 77,
-    "name": "Centre de r\u00e9adaptation en d\u00e9ficience intellectuelle et en troubles envahissants du d\u00e9veloppement de l'Estrie",
+    "name": "Centre de réadaptation en déficience intellectuelle et en troubles envahissants du développement de l'Estrie",
     "location": {
       "longitude": -71.9151916501915,
       "latitude": 45.4101142880779
     },
-    "rent": 6,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "001-218-469-6691",
-    "email": "sjohnston@example.com",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 6,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 13,
-      "hasIncreased": false
-    }
+    "email": "sjohnston@example.com"
   },
   {
     "id": 78,
@@ -2580,31 +1254,14 @@
       "longitude": -73.60688018791323,
       "latitude": 45.47521591161731
     },
-    "rent": 7,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "388.451.0768x404",
-    "email": "hernandezsteven@example.org",
-    "nurseStats": {
-      "number": 5,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 9,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 10,
-      "hasIncreased": true
-    }
+    "email": "hernandezsteven@example.org"
   },
   {
     "id": 79,
@@ -2613,64 +1270,30 @@
       "longitude": -73.66186523461424,
       "latitude": 45.496360779077136
     },
-    "rent": 9,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(926)320-6567x5440",
-    "email": "farrelljoseph@example.net",
-    "nurseStats": {
-      "number": 7,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 5,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "farrelljoseph@example.net"
   },
   {
     "id": 80,
-    "name": "Centre universitaire de sant\u00e9 McGill",
+    "name": "Centre universitaire de santé McGill",
     "location": {
       "longitude": -73.58903503441995,
       "latitude": 45.49704742448533
     },
-    "rent": 1,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(440)925-0479x7368",
-    "email": "anthony75@example.org",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 7,
-      "changePercentage": 10,
-      "hasIncreased": true
-    }
+    "email": "anthony75@example.org"
   },
   {
     "id": 81,
@@ -2679,97 +1302,46 @@
       "longitude": -73.5627212525375,
       "latitude": 45.46018600436017
     },
-    "rent": 10,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "001-592-390-7340x11529",
-    "email": "mcgeestacey@example.org",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 9,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 10,
-      "hasIncreased": false
-    }
+    "email": "mcgeestacey@example.org"
   },
   {
     "id": 82,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e Heather inc.",
+    "name": "Centre d'hébergement et de soins de longue durée Heather inc.",
     "location": {
       "longitude": -73.70222473112274,
       "latitude": 46.05086135890969
     },
-    "rent": 9,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(395)805-6414",
-    "email": "garciaandrea@example.net",
-    "nurseStats": {
-      "number": 2,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 11,
-      "hasIncreased": false
-    }
+    "email": "garciaandrea@example.net"
   },
   {
     "id": 83,
-    "name": "L'H\u00f4pital g\u00e9n\u00e9ral juif Sir Mortimer B. Davis",
+    "name": "L'Hôpital général juif Sir Mortimer B. Davis",
     "location": {
       "longitude": -73.62880706776694,
       "latitude": 45.49781036401238
     },
-    "rent": 5,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": true,
     "phoneNumber": "(226)470-7969",
-    "email": "amccarthy@example.net",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "amccarthy@example.net"
   },
   {
     "id": 84,
@@ -2778,97 +1350,46 @@
       "longitude": -73.62494659466437,
       "latitude": 45.50315475438109
     },
-    "rent": 9,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "766.667.8440x0729",
-    "email": "jordanjillian@example.net",
-    "nurseStats": {
-      "number": 9,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 10,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "jordanjillian@example.net"
   },
   {
     "id": 85,
-    "name": "La r\u00e9sidence de Lachute",
+    "name": "La résidence de Lachute",
     "location": {
       "longitude": -74.33926391621652,
       "latitude": 45.65664672852218
     },
-    "rent": 9,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "418-336-9199x959",
-    "email": "jaguirre@example.net",
-    "nurseStats": {
-      "number": 11,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 10,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "jaguirre@example.net"
   },
   {
     "id": 86,
-    "name": "Centre de sant\u00e9 Tulattavik de l'Ungava",
+    "name": "Centre de santé Tulattavik de l'Ungava",
     "location": {
       "longitude": -68.40527343716633,
       "latitude": 58.10704803447119
     },
-    "rent": 10,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(571)206-4204",
-    "email": "robin94@example.com",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 6,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 10,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "robin94@example.com"
   },
   {
     "id": 87,
@@ -2877,229 +1398,110 @@
       "longitude": -73.624137878245,
       "latitude": 45.49494171147897
     },
-    "rent": 9,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "7622040514",
-    "email": "eileenjones@example.org",
-    "nurseStats": {
-      "number": 9,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 3,
-      "changePercentage": 11,
-      "hasIncreased": false
-    }
+    "email": "eileenjones@example.org"
   },
   {
     "id": 88,
-    "name": "Institut national de psychiatrie l\u00e9gale Philippe-Pinel",
+    "name": "Institut national de psychiatrie légale Philippe-Pinel",
     "location": {
       "longitude": -73.5336151123916,
       "latitude": 45.65605545072869
     },
-    "rent": 10,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "250-485-5920",
-    "email": "sharon12@example.net",
-    "nurseStats": {
-      "number": 9,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "sharon12@example.net"
   },
   {
     "id": 89,
-    "name": "R\u00e9sidence Riviera inc.",
+    "name": "Résidence Riviera inc.",
     "location": {
       "longitude": -73.73436737096507,
       "latitude": 45.54867553711517
     },
-    "rent": 6,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "4567442832",
-    "email": "enguyen@example.com",
-    "nurseStats": {
-      "number": 9,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 8,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "enguyen@example.com"
   },
   {
     "id": 90,
-    "name": "L'H\u00f4pital chinois de Montr\u00e9al (1963)",
+    "name": "L'Hôpital chinois de Montréal (1963)",
     "location": {
       "longitude": -73.55812072754092,
       "latitude": 45.50955581692069
     },
-    "rent": 6,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-905-374-4748x18498",
-    "email": "matthewsmith@example.org",
-    "nurseStats": {
-      "number": 5,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 8,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "matthewsmith@example.org"
   },
   {
     "id": 91,
-    "name": "Les c\u00e8dres - Centre d'accueil pour personnes \u00e2g\u00e9es",
+    "name": "Les cèdres - Centre d'accueil pour personnes âgées",
     "location": {
       "longitude": -73.67992401107536,
       "latitude": 45.51700210577909
     },
-    "rent": 1,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "970-456-9600x5955",
-    "email": "oburke@example.org",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 7,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 11,
-      "hasIncreased": true
-    }
+    "email": "oburke@example.org"
   },
   {
     "id": 92,
-    "name": "Centre d'h\u00e9bergement du Bois\u00e9 Lt\u00e9e",
+    "name": "Centre d'hébergement du Boisé Ltée",
     "location": {
       "longitude": -71.32139587436683,
       "latitude": 46.75403213498259
     },
-    "rent": 1,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "552-777-0396",
-    "email": "stephen08@example.com",
-    "nurseStats": {
-      "number": 10,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 7,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 2,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "stephen08@example.com"
   },
   {
     "id": 93,
-    "name": "La corporation du Centre hospitalier g\u00e9riatrique Maimonides",
+    "name": "La corporation du Centre hospitalier gériatrique Maimonides",
     "location": {
       "longitude": -73.66842651327978,
       "latitude": 45.47154998799343
     },
-    "rent": 7,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "972-453-9910",
-    "email": "tnguyen@example.org",
-    "nurseStats": {
-      "number": 9,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 8,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 3,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "tnguyen@example.org"
   },
   {
     "id": 94,
@@ -3108,130 +1510,62 @@
       "longitude": -71.15673828143875,
       "latitude": 46.81910324111637
     },
-    "rent": 8,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-371-324-8638x1104",
-    "email": "bcantrell@example.org",
-    "nurseStats": {
-      "number": 6,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 9,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 12,
-      "hasIncreased": true
-    }
+    "email": "bcantrell@example.org"
   },
   {
     "id": 95,
-    "name": "Centre m\u00e9tropolitain de chirurgie plastique inc.",
+    "name": "Centre métropolitain de chirurgie plastique inc.",
     "location": {
       "longitude": -73.69293975871913,
       "latitude": 45.54544830331877
     },
-    "rent": 2,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "001-739-846-3483x707",
-    "email": "cgraham@example.net",
-    "nurseStats": {
-      "number": 9,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 6,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 11,
-      "hasIncreased": false
-    }
+    "email": "cgraham@example.net"
   },
   {
     "id": 96,
-    "name": "H\u00f4pital Mont-Sina\u00ef",
+    "name": "Hôpital Mont-Sinaï",
     "location": {
       "longitude": -73.65734100353475,
       "latitude": 45.473842620584804
     },
-    "rent": 2,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": true,
     "phoneNumber": "815.829.4171x2234",
-    "email": "heathersnyder@example.com",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 7,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 8,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "heathersnyder@example.com"
   },
   {
     "id": 97,
-    "name": "H\u00f4pital Shriners pour enfants (Qu\u00e9bec) inc.",
+    "name": "Hôpital Shriners pour enfants (Québec) inc.",
     "location": {
       "longitude": -73.60199737542347,
       "latitude": 45.471775054922645
     },
-    "rent": 3,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-285-679-8305x023",
-    "email": "morganjohn@example.com",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 10,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 6,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 7,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "morganjohn@example.com"
   },
   {
     "id": 98,
@@ -3240,64 +1574,30 @@
       "longitude": -73.17335510298788,
       "latitude": 45.77806854262736
     },
-    "rent": 2,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "4844956842",
-    "email": "stephen32@example.org",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "stephen32@example.org"
   },
   {
     "id": 99,
-    "name": "Institut universitaire de cardiologie et de pneumologie de Qu\u00e9bec \u2013 Universit\u00e9 Laval",
+    "name": "Institut universitaire de cardiologie et de pneumologie de Québec – Université Laval",
     "location": {
       "longitude": -71.29766082778002,
       "latitude": 46.779090881512644
     },
-    "rent": 2,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-266-862-1716x4475",
-    "email": "crystal70@example.net",
-    "nurseStats": {
-      "number": 2,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 3,
-      "changePercentage": 11,
-      "hasIncreased": false
-    }
+    "email": "crystal70@example.net"
   },
   {
     "id": 100,
@@ -3306,130 +1606,62 @@
       "longitude": -73.74103546111455,
       "latitude": 45.541816711474844
     },
-    "rent": 10,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "285.437.2577",
-    "email": "james58@example.net",
-    "nurseStats": {
-      "number": 11,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "james58@example.net"
   },
   {
     "id": 101,
-    "name": "Institut universitaire en sant\u00e9 mentale Douglas",
+    "name": "Institut universitaire en santé mentale Douglas",
     "location": {
       "longitude": -73.58435821550631,
       "latitude": 45.44213485693992
     },
-    "rent": 6,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-327-209-8268x9271",
-    "email": "nicolepowers@example.com",
-    "nurseStats": {
-      "number": 6,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 13,
-      "hasIncreased": false
-    }
+    "email": "nicolepowers@example.com"
   },
   {
     "id": 102,
-    "name": "CHSLD Juif de Montr\u00e9al",
+    "name": "CHSLD Juif de Montréal",
     "location": {
       "longitude": -73.63375854478208,
       "latitude": 45.49298477155571
     },
-    "rent": 3,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "541.509.9123x49575",
-    "email": "myersjennifer@example.com",
-    "nurseStats": {
-      "number": 11,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 14,
-      "hasIncreased": false
-    }
+    "email": "myersjennifer@example.com"
   },
   {
     "id": 103,
-    "name": "Centre de sant\u00e9 et de services sociaux - Institut universitaire de g\u00e9riatrie de Sherbrooke",
+    "name": "Centre de santé et de services sociaux - Institut universitaire de gériatrie de Sherbrooke",
     "location": {
       "longitude": -71.89510345463775,
       "latitude": 45.390666961842314
     },
-    "rent": 7,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "543.538.9748x197",
-    "email": "snyderelizabeth@example.com",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "snyderelizabeth@example.com"
   },
   {
     "id": 104,
@@ -3438,64 +1670,30 @@
       "longitude": -73.57250976569216,
       "latitude": 45.49183654775288
     },
-    "rent": 10,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-508-617-1981",
-    "email": "jayelliott@example.net",
-    "nurseStats": {
-      "number": 11,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 9,
-      "changePercentage": 15,
-      "hasIncreased": false
-    }
+    "email": "jayelliott@example.net"
   },
   {
     "id": 105,
-    "name": "Conseil cri de la sant\u00e9 et des services sociaux de la Baie James",
+    "name": "Conseil cri de la santé et des services sociaux de la Baie James",
     "location": {
       "longitude": -78.89573669457249,
       "latitude": 53.78265380846661
     },
-    "rent": 1,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "812.902.2826",
-    "email": "margaretwillis@example.net",
-    "nurseStats": {
-      "number": 2,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 9,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "margaretwillis@example.net"
   },
   {
     "id": 106,
@@ -3504,31 +1702,14 @@
       "longitude": -71.25159454357895,
       "latitude": 46.77347946145923
     },
-    "rent": 10,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": true,
     "phoneNumber": "995-642-6339x2316",
-    "email": "turnerdavid@example.com",
-    "nurseStats": {
-      "number": 10,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 8,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 10,
-      "hasIncreased": true
-    }
+    "email": "turnerdavid@example.com"
   },
   {
     "id": 107,
@@ -3537,31 +1718,14 @@
       "longitude": -73.63565063482399,
       "latitude": 45.61357879652601
     },
-    "rent": 8,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(927)668-8605",
-    "email": "wowens@example.com",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "wowens@example.com"
   },
   {
     "id": 108,
@@ -3570,31 +1734,14 @@
       "longitude": -66.40366363539509,
       "latitude": 50.22117614766928
     },
-    "rent": 3,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-308-789-6523",
-    "email": "anthonygarrison@example.com",
-    "nurseStats": {
-      "number": 2,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 10,
-      "changePercentage": 12,
-      "hasIncreased": true
-    }
+    "email": "anthonygarrison@example.com"
   },
   {
     "id": 109,
@@ -3603,31 +1750,14 @@
       "longitude": -71.35711669892024,
       "latitude": 46.86255645770677
     },
-    "rent": 5,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(595)891-1081x49772",
-    "email": "katrinajones@example.org",
-    "nurseStats": {
-      "number": 7,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 6,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "katrinajones@example.org"
   },
   {
     "id": 110,
@@ -3636,31 +1766,14 @@
       "longitude": -72.22927856480855,
       "latitude": 48.5763092041226
     },
-    "rent": 8,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "533-549-2154x5756",
-    "email": "frankdonald@example.net",
-    "nurseStats": {
-      "number": 7,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 6,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "frankdonald@example.net"
   },
   {
     "id": 111,
@@ -3669,31 +1782,14 @@
       "longitude": -73.67635345485768,
       "latitude": 45.41387557976512
     },
-    "rent": 3,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "001-828-647-2631x8707",
-    "email": "andersonnatasha@example.net",
-    "nurseStats": {
-      "number": 7,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 9,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "andersonnatasha@example.net"
   },
   {
     "id": 112,
@@ -3702,130 +1798,62 @@
       "longitude": -73.88355255122109,
       "latitude": 45.418949127111134
     },
-    "rent": 9,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-673-206-7712x635",
-    "email": "nanderson@example.com",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 8,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 7,
-      "changePercentage": 14,
-      "hasIncreased": false
-    }
+    "email": "nanderson@example.com"
   },
   {
     "id": 113,
-    "name": "Centre de sant\u00e9 Inuulitsivik - Inuulitsivik Healthcenter",
+    "name": "Centre de santé Inuulitsivik - Inuulitsivik Healthcenter",
     "location": {
       "longitude": -77.27579498252422,
       "latitude": 60.037651061810564
     },
-    "rent": 4,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "997.231.1377",
-    "email": "rwilliams@example.org",
-    "nurseStats": {
-      "number": 10,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "rwilliams@example.org"
   },
   {
     "id": 114,
-    "name": "Ch\u00e2teau Westmount inc.",
+    "name": "Château Westmount inc.",
     "location": {
       "longitude": -73.60015869112353,
       "latitude": 45.47716522233155
     },
-    "rent": 3,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "906-978-3877x85618",
-    "email": "holmeselizabeth@example.org",
-    "nurseStats": {
-      "number": 6,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 8,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 11,
-      "hasIncreased": false
-    }
+    "email": "holmeselizabeth@example.org"
   },
   {
     "id": 115,
-    "name": "Centre d'h\u00e9bergement St-Fran\u00e7ois inc.",
+    "name": "Centre d'hébergement St-François inc.",
     "location": {
       "longitude": -71.03949737504406,
       "latitude": 48.423099518067836
     },
-    "rent": 8,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "6524560029",
-    "email": "richard46@example.net",
-    "nurseStats": {
-      "number": 8,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "richard46@example.net"
   },
   {
     "id": 116,
@@ -3834,31 +1862,14 @@
       "longitude": -73.64744567889618,
       "latitude": 45.68655014068396
     },
-    "rent": 10,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(474)577-6292x52803",
-    "email": "brian72@example.net",
-    "nurseStats": {
-      "number": 6,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 6,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 11,
-      "hasIncreased": true
-    }
+    "email": "brian72@example.net"
   },
   {
     "id": 117,
@@ -3867,31 +1878,14 @@
       "longitude": -73.29598999021849,
       "latitude": 45.46135711661202
     },
-    "rent": 8,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "885-851-9076",
-    "email": "elizabeth20@example.org",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 10,
-      "hasIncreased": false
-    }
+    "email": "elizabeth20@example.org"
   },
   {
     "id": 118,
@@ -3900,97 +1894,46 @@
       "longitude": -74.60250854472832,
       "latitude": 45.008739471744065
     },
-    "rent": 9,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "984-585-9179",
-    "email": "matthewstammy@example.net",
-    "nurseStats": {
-      "number": 5,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "matthewstammy@example.net"
   },
   {
     "id": 119,
-    "name": "H\u00f4pital Ste-Monique inc.",
+    "name": "Hôpital Ste-Monique inc.",
     "location": {
       "longitude": -71.34243011449239,
       "latitude": 46.79816818213518
     },
-    "rent": 10,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "406.338.4071",
-    "email": "kimberly96@example.net",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 12,
-      "changePercentage": 14,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 4,
-      "changePercentage": 13,
-      "hasIncreased": false
-    }
+    "email": "kimberly96@example.net"
   },
   {
     "id": 120,
-    "name": "Centre d'accueil Saint-Joseph de L\u00e9vis inc.",
+    "name": "Centre d'accueil Saint-Joseph de Lévis inc.",
     "location": {
       "longitude": -71.18869018559006,
       "latitude": 46.79914474461352
     },
-    "rent": 7,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-418-674-4195x2615",
-    "email": "wilsonjoshua@example.net",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 5,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 8,
-      "changePercentage": 0,
-      "hasIncreased": true
-    }
+    "email": "wilsonjoshua@example.net"
   },
   {
     "id": 121,
@@ -3999,262 +1942,126 @@
       "longitude": -73.49438476585587,
       "latitude": 45.446056365786234
     },
-    "rent": 10,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "001-617-387-2584x1477",
-    "email": "joshuatran@example.org",
-    "nurseStats": {
-      "number": 6,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 7,
-      "changePercentage": 0,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 2,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "joshuatran@example.org"
   },
   {
     "id": 122,
-    "name": "Centre d'h\u00e9bergement St-Jean-Eudes inc.",
+    "name": "Centre d'hébergement St-Jean-Eudes inc.",
     "location": {
       "longitude": -71.25952148425854,
       "latitude": 46.85052490234728
     },
-    "rent": 3,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "(866)252-3049",
-    "email": "sarah47@example.org",
-    "nurseStats": {
-      "number": 2,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 9,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 11,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "sarah47@example.org"
   },
   {
     "id": 123,
-    "name": "R\u00e9sidence Sorel-Tracy inc.",
+    "name": "Résidence Sorel-Tracy inc.",
     "location": {
       "longitude": -73.14367675756556,
       "latitude": 46.02822494494574
     },
-    "rent": 8,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "493-257-8700",
-    "email": "hortega@example.com",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 11,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 10,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 8,
-      "changePercentage": 15,
-      "hasIncreased": true
-    }
+    "email": "hortega@example.com"
   },
   {
     "id": 124,
-    "name": "Centre d\u2019h\u00e9bergement et de soins de longue dur\u00e9e Manoir Harwood inc.",
+    "name": "Centre d’hébergement et de soins de longue durée Manoir Harwood inc.",
     "location": {
       "longitude": -74.04125976560819,
       "latitude": 45.4034423826112
     },
-    "rent": 3,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "381-334-8226",
-    "email": "anna33@example.net",
-    "nurseStats": {
-      "number": 12,
-      "changePercentage": 13,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 11,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 7,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "anna33@example.net"
   },
   {
     "id": 125,
-    "name": "Centre hospitalier Saint-Fran\u00e7ois inc.",
+    "name": "Centre hospitalier Saint-François inc.",
     "location": {
       "longitude": -71.2359771724644,
       "latitude": 46.82904052732235
     },
-    "rent": 9,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "247-929-5059x282",
-    "email": "arianaedwards@example.com",
-    "nurseStats": {
-      "number": 7,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 4,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 8,
-      "changePercentage": 0,
-      "hasIncreased": false
-    }
+    "email": "arianaedwards@example.com"
   },
   {
     "id": 126,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e de La Maison Legault inc.",
+    "name": "Centre d'hébergement et de soins de longue durée de La Maison Legault inc.",
     "location": {
       "longitude": -71.28861999501274,
       "latitude": 46.757755279833326
     },
-    "rent": 5,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "933-893-7380x030",
-    "email": "ryan85@example.org",
-    "nurseStats": {
-      "number": 2,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 6,
-      "changePercentage": 14,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 12,
-      "changePercentage": 14,
-      "hasIncreased": false
-    }
+    "email": "ryan85@example.org"
   },
   {
     "id": 127,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e Bourget inc.",
+    "name": "Centre d'hébergement et de soins de longue durée Bourget inc.",
     "location": {
       "longitude": -73.49275970452375,
       "latitude": 45.63380050637593
     },
-    "rent": 3,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-316-837-3926x6475",
-    "email": "amberford@example.org",
-    "nurseStats": {
-      "number": 6,
-      "changePercentage": 15,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 9,
-      "changePercentage": 11,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 13,
-      "hasIncreased": true
-    }
+    "email": "amberford@example.org"
   },
   {
     "id": 128,
-    "name": "Centre d'h\u00e9bergement et de soins de longue dur\u00e9e Bussey (Qu\u00e9bec) inc.",
+    "name": "Centre d'hébergement et de soins de longue durée Bussey (Québec) inc.",
     "location": {
       "longitude": -73.68330383339863,
       "latitude": 45.433078766093686
     },
-    "rent": 1,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "237-787-0940x4908",
-    "email": "jamescarla@example.org",
-    "nurseStats": {
-      "number": 4,
-      "changePercentage": 10,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 9,
-      "changePercentage": 12,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 5,
-      "changePercentage": 11,
-      "hasIncreased": true
-    }
+    "email": "jamescarla@example.org"
   },
   {
     "id": 129,
@@ -4263,31 +2070,14 @@
       "longitude": -71.64777374261877,
       "latitude": 45.903816223416285
     },
-    "rent": 5,
-    "walkIn": false,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "+1-912-610-6725x3294",
-    "email": "tannerjennifer@example.net",
-    "nurseStats": {
-      "number": 3,
-      "changePercentage": 12,
-      "hasIncreased": true
-    },
-    "physioStats": {
-      "number": 2,
-      "changePercentage": 0,
-      "hasIncreased": true
-    },
-    "secretaryStats": {
-      "number": 7,
-      "changePercentage": 12,
-      "hasIncreased": false
-    }
+    "email": "tannerjennifer@example.net"
   },
   {
     "id": 130,
@@ -4296,30 +2086,13 @@
       "longitude": -73.56874084439175,
       "latitude": 45.51497268687657
     },
-    "rent": 1,
-    "walkIn": true,
+    "lsa": "Dorval - Lachine - Lasalle",
     "gmfInfo": {
       "gmfType": "GMF-U",
       "gmfGrade": "Niveau 2"
     },
-    "lsa": "Dorval - Lachine - Lasalle",
     "isFavorite": false,
     "phoneNumber": "542-887-6794x9779",
-    "email": "murphyanthony@example.com",
-    "nurseStats": {
-      "number": 2,
-      "changePercentage": 13,
-      "hasIncreased": false
-    },
-    "physioStats": {
-      "number": 3,
-      "changePercentage": 15,
-      "hasIncreased": false
-    },
-    "secretaryStats": {
-      "number": 6,
-      "changePercentage": 14,
-      "hasIncreased": true
-    }
+    "email": "murphyanthony@example.com"
   }
 ]

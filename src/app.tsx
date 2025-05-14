@@ -1,44 +1,32 @@
 import { useState } from 'react'
+import { z } from 'zod'
 
 import data from '@/assets/data.json'
 import ClinicDisplay from '@/components/clinic-display/clinic-display'
 import TopHeader from '@/components/top-header'
 import { Separator } from '@/components/ui/separator'
 
-type Location = {
-  longitude: number
-  latitude: number
-}
+const clinicSchema = z.object({
+  id: z.number(),
+  name: z.string(),
+  location: z.object({
+    longitude: z.number(),
+    latitude: z.number(),
+  }),
+  lsa: z.enum(['Dorval - Lachine - Lasalle']),
+  gmfInfo: z.object({
+    gmfType: z.enum(['GMF-U']),
+    gmfGrade: z.enum(['Niveau 2']),
+  }),
+  isFavorite: z.boolean(),
+  phoneNumber: z.string(),
+  email: z.string().email(),
+})
 
-type GmfInfo = {
-  gmfType: string
-  gmfGrade: string
-}
-
-type PersonnelStats = {
-  number: number
-  changePercentage: number
-  hasIncreased: boolean
-}
-
-type Clinic = {
-  id: number
-  name: string
-  location: Location
-  rent: number
-  walkIn: boolean
-  gmfInfo: GmfInfo
-  lsa: string
-  isFavorite: boolean
-  phoneNumber: string
-  email: string
-  nurseStats: PersonnelStats
-  physioStats: PersonnelStats
-  secretaryStats: PersonnelStats
-}
+type Clinic = z.infer<typeof clinicSchema>
 
 function App() {
-  const filteredClinics: Clinic[] = data
+  const filteredClinics = z.array(clinicSchema.strict()).parse(data)
   const [selectedClinicId, setSelectedId] = useState<number | null>(null)
 
   return (

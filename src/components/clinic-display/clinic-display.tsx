@@ -28,9 +28,6 @@ function getDetails(
     phoneNumber: clinic.phoneNumber,
     email: clinic.email,
     isFavorite: clinic.isFavorite,
-    nurseStats: clinic.nurseStats,
-    physioStats: clinic.physioStats,
-    secretaryStats: clinic.secretaryStats,
   }
 }
 
@@ -38,10 +35,8 @@ function getRow(clinic: Clinic): RowClinic {
   return {
     name: clinic.name,
     id: clinic.id,
-    rent: clinic.rent,
     gmfInfo: clinic.gmfInfo,
     lsa: clinic.lsa,
-    walkIn: clinic.walkIn,
     isFavorite: clinic.isFavorite,
   }
 }

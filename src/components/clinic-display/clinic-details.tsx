@@ -2,20 +2,11 @@ import { ArrowLeft, Heart } from 'lucide-react'
 
 import { Separator } from '@/components/ui/separator'
 
-type PersonnelStats = {
-  number: number
-  changePercentage: number
-  hasIncreased: boolean
-}
-
 type ClinicDetailsProps = {
   name: string
   phoneNumber: string
   email: string
   isFavorite: boolean
-  nurseStats: PersonnelStats
-  physioStats: PersonnelStats
-  secretaryStats: PersonnelStats
 }
 
 function ClinicDetails({

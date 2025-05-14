@@ -10,10 +10,8 @@ type GmfInfo = {
 type RowClinic = {
   name: string
   id: number
-  rent: number
   gmfInfo: GmfInfo
   lsa: string
-  walkIn: boolean
   isFavorite: boolean
 }
 
@@ -31,19 +29,12 @@ function Row({ clinic, onSelect }: RowProps) {
       >
         Logo
       </div>
-      <span className="border-orange-300 border rounded-md px-2 py-0.5">
-        {clinic.rent}
-        %
-      </span>
       <div className="border-orange-300 border rounded-md px-2 py-0.5 text-center">
         <p>{clinic.gmfInfo.gmfType}</p>
         <p>{clinic.gmfInfo.gmfGrade}</p>
       </div>
       <span className="border-orange-300 border rounded-md px-2 py-0.5">
         {clinic.lsa}
-      </span>
-      <span className="border-orange-300 border rounded-md px-2 py-0.5">
-        {clinic.walkIn ? 'Yes' : 'No'}
       </span>
       <Heart
         fill={clinic.isFavorite ? 'red' : 'white'}
@@ -66,12 +57,10 @@ function ClinicsTable({
   const visibility = isVisible ? 'visible' : 'invisible'
   return (
     <div className={visibility}>
-      <div className="grid grid-cols-[1fr_1fr_2fr_3fr_1fr_1fr] gap-2 justify-between justify-items-center items-center text-sm">
+      <div className="grid grid-cols-[1fr_2fr_3fr_1fr] gap-2 justify-between justify-items-center items-center text-sm">
         <span className="font-semibold">Name</span>
-        <span className="font-semibold">Rent</span>
         <span className="font-semibold">GMF</span>
         <span className="font-semibold">LSA</span>
-        <span className="font-semibold">Walk In</span>
         <span className="font-semibold">Fav</span>
         {clinics.map(clinic => (
           <Fragment key={clinic.id}>
