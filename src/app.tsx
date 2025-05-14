@@ -1,44 +1,60 @@
 import { useState } from 'react'
 
-import reactLogo from './assets/react.svg'
-import { Button } from './components/ui/button'
-import './app.css'
+import data from '@/assets/data.json'
+import ClinicDisplay from '@/components/clinic-display/clinic-display'
+import TopHeader from '@/components/top-header'
+import { Separator } from '@/components/ui/separator'
 
-import viteLogo from '/vite.svg'
+type Location = {
+  longitude: number
+  latitude: number
+}
+
+type GmfInfo = {
+  gmfType: string
+  gmfGrade: string
+}
+
+type PersonnelStats = {
+  number: number
+  changePercentage: number
+  hasIncreased: boolean
+}
+
+type Clinic = {
+  id: number
+  name: string
+  location: Location
+  rent: number
+  walkIn: boolean
+  gmfInfo: GmfInfo
+  lsa: string
+  isFavorite: boolean
+  phoneNumber: string
+  email: string
+  nurseStats: PersonnelStats
+  physioStats: PersonnelStats
+  secretaryStats: PersonnelStats
+}
 
 function App() {
-  const [count, setCount] = useState(0)
+  const filteredClinics: Clinic[] = data
+  const [selectedClinicId, setSelectedId] = useState<number | null>(null)
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank" rel="noreferrer noopener">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank" rel="noreferrer noopener">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+    <main className="w-screen min-h-[600px] h-screen border-blue-800 border-2">
+      <div className="min-h-full flex flex-col">
+        <TopHeader />
+        <Separator className="bg-orange-300" />
+        <ClinicDisplay
+          filteredClinics={filteredClinics}
+          selectedId={selectedClinicId}
+          setSelectedId={setSelectedId}
+        />
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <Button onClick={() => setCount(count => count + 1)}>
-          count is
-          {' '}
-          {count}
-        </Button>
-        <p>
-          Edit
-          {' '}
-          <code>src/App.tsx</code>
-          {' '}
-          and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    </main>
   )
 }
 
 export default App
+export type { Clinic }
