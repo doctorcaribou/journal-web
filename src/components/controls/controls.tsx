@@ -4,8 +4,8 @@ import { Separator } from '@/components/ui/separator'
 import { cn } from '@/lib/utils'
 
 import GMFControl from './gmf-control'
+import GradeControl from './grade-control'
 import LSAControl from './lsa-control'
-import RentControl from './rent-control'
 
 function OrangeSeparator() {
   return (
@@ -19,11 +19,6 @@ function Filters() {
   return (
     <div className="border-orange-300 border rounded-full shadow-md py-2 px-6 flex gap-2">
       <div className="text-sm flex-shrink-0">
-        <p>Rent</p>
-        <RentControl />
-      </div>
-      <OrangeSeparator />
-      <div className="text-sm flex-shrink-0">
         <p>Local Service Area</p>
         <LSAControl />
       </div>
@@ -31,6 +26,11 @@ function Filters() {
       <div className="text-sm flex-shrink-0">
         <p>GMF</p>
         <GMFControl />
+      </div>
+      <OrangeSeparator />
+      <div className="text-sm flex-shrink-0">
+        <p>Grade</p>
+        <GradeControl />
       </div>
     </div>
   )

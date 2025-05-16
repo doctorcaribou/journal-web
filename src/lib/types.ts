@@ -2,7 +2,7 @@ import { z } from 'zod'
 
 export const LSA_VALUES = ['LSA-1', 'LSA-2'] as const
 export const GMF_TYPES = ['GMF-A', 'GMF-B'] as const
-const GMF_GRADES = ['N-1', 'N-2'] as const
+export const GMF_GRADES = ['N-1', 'N-2'] as const
 
 const clinicSchema = z.object({
   id: z.number(),
