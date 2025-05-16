@@ -1,17 +1,15 @@
 import { Heart } from 'lucide-react'
 import { Fragment } from 'react/jsx-runtime'
 
+import type { GmfInfo, Lsa } from '@/lib/types'
+
 import { Separator } from '@/components/ui/separator'
 
-type GmfInfo = {
-  gmfType: string
-  gmfGrade: string
-}
 type RowClinic = {
   name: string
   id: number
   gmfInfo: GmfInfo
-  lsa: string
+  lsa: Lsa
   isFavorite: boolean
 }
 

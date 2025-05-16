@@ -1,32 +1,14 @@
 import { useState } from 'react'
-import { z } from 'zod'
 
 import data from '@/assets/data.json'
 import ClinicDisplay from '@/components/clinic-display/clinic-display'
 import TopHeader from '@/components/top-header'
 import { Separator } from '@/components/ui/separator'
 
-const clinicSchema = z.object({
-  id: z.number(),
-  name: z.string(),
-  location: z.object({
-    longitude: z.number(),
-    latitude: z.number(),
-  }),
-  lsa: z.enum(['Dorval - Lachine - Lasalle']),
-  gmfInfo: z.object({
-    gmfType: z.enum(['GMF-U']),
-    gmfGrade: z.enum(['Niveau 2']),
-  }),
-  isFavorite: z.boolean(),
-  phoneNumber: z.string(),
-  email: z.string().email(),
-})
-
-type Clinic = z.infer<typeof clinicSchema>
+import { clinicArraySchema } from './lib/types'
 
 function App() {
-  const filteredClinics = z.array(clinicSchema.strict()).parse(data)
+  const filteredClinics = clinicArraySchema.parse(data)
   const [selectedClinicId, setSelectedId] = useState<number | null>(null)
 
   return (
@@ -45,4 +27,3 @@ function App() {
 }
 
 export default App
-export type { Clinic }

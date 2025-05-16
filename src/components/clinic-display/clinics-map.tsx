@@ -1,7 +1,7 @@
 import { Map, Marker } from 'react-map-gl/mapbox'
 import 'mapbox-gl/dist/mapbox-gl.css'
 
-import type { Clinic } from '@/app'
+import type { Clinic } from '@/lib/types'
 
 type ClinicsMapProps = {
   clinics: Clinic[]

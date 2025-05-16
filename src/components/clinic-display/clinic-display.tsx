@@ -1,10 +1,10 @@
-import type { Clinic } from '@/app'
 import type {
   ClinicDetailsProps,
 } from '@/components/clinic-display/clinic-details'
 import type {
   RowClinic,
 } from '@/components/clinic-display/clinics-table'
+import type { Clinic } from '@/lib/types'
 
 import ClinicDetails from '@/components/clinic-display/clinic-details'
 import ClinicsTable from '@/components/clinic-display/clinics-table'

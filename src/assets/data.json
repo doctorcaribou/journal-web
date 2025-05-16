@@ -6,10 +6,10 @@
       "longitude": -73.48833465553646,
       "latitude": 45.65245056145062
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "372.405.6176x474",
@@ -22,10 +22,10 @@
       "longitude": -73.5729370116278,
       "latitude": 45.51221466048644
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(249)851-1307x72234",
@@ -38,10 +38,10 @@
       "longitude": -74.35707855214297,
       "latitude": 49.913394928034776
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(384)886-9098x871",
@@ -54,10 +54,10 @@
       "longitude": -73.55594635000583,
       "latitude": 45.51083755503012
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "001-275-383-1474x3496",
@@ -70,10 +70,10 @@
       "longitude": -72.96422576872573,
       "latitude": 45.633514404419834
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(219)893-1435",
@@ -86,10 +86,10 @@
       "longitude": -73.78733062706682,
       "latitude": 47.90256500268673
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": true,
     "phoneNumber": "633.544.2620x086",
@@ -102,10 +102,10 @@
       "longitude": -79.4703979488069,
       "latitude": 47.607013702463334
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "896-315-9822x113",
@@ -118,10 +118,10 @@
       "longitude": -73.66159057651276,
       "latitude": 45.71275711065372
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "2047726386",
@@ -134,10 +134,10 @@
       "longitude": -66.76425170864223,
       "latitude": 54.86124801627056
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "(710)462-4429x80570",
@@ -150,10 +150,10 @@
       "longitude": -73.6190414427874,
       "latitude": 45.630062103484015
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "826.285.9521",
@@ -166,10 +166,10 @@
       "longitude": -73.85889434823758,
       "latitude": 45.56219100938229
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "8575173108",
@@ -182,10 +182,10 @@
       "longitude": -73.85500335666985,
       "latitude": 45.54328918462736
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "7908193364",
@@ -198,10 +198,10 @@
       "longitude": -61.86877059912095,
       "latitude": 47.375576019080476
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "399.769.8706x4296",
@@ -214,10 +214,10 @@
       "longitude": -73.88561248788055,
       "latitude": 45.46285247788745
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "001-460-804-8982x727",
@@ -230,10 +230,10 @@
       "longitude": -73.60374450702291,
       "latitude": 45.61606979385253
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "313-800-0825",
@@ -246,10 +246,10 @@
       "longitude": -73.87446594210354,
       "latitude": 45.47798919672922
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "2353543668",
@@ -262,10 +262,10 @@
       "longitude": -73.81611633276098,
       "latitude": 45.48020172147397
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(666)787-1161x062",
@@ -278,10 +278,10 @@
       "longitude": -73.56745910658482,
       "latitude": 45.57892608672326
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "9136889176",
@@ -294,10 +294,10 @@
       "longitude": -74.03670501696188,
       "latitude": 45.28935623184811
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "400.732.6945",
@@ -310,10 +310,10 @@
       "longitude": -71.24160003684817,
       "latitude": 46.79501342755088
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "(332)250-4992x9219",
@@ -326,10 +326,10 @@
       "longitude": -73.44436645495344,
       "latitude": 45.60248947153856
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "229.287.7224x250",
@@ -342,10 +342,10 @@
       "longitude": -73.84092712357864,
       "latitude": 45.64916229261078
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "001-851-924-6500x120",
@@ -358,10 +358,10 @@
       "longitude": -73.6224365229958,
       "latitude": 45.52230453502446
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(500)807-1965x162",
@@ -374,10 +374,10 @@
       "longitude": -73.54337310797942,
       "latitude": 45.40030670168091
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(250)899-6293",
@@ -390,10 +390,10 @@
       "longitude": -72.17380523703825,
       "latitude": 45.67542266845913
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(213)819-7264x067",
@@ -406,10 +406,10 @@
       "longitude": -73.76766967744871,
       "latitude": 45.547000884974786
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "(576)285-3634",
@@ -422,10 +422,10 @@
       "longitude": -73.76655578625935,
       "latitude": 45.570861816200015
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "+1-535-543-9289x631",
@@ -438,10 +438,10 @@
       "longitude": -72.76215362538676,
       "latitude": 45.407470703398005
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": true,
     "phoneNumber": "415.399.5255",
@@ -454,10 +454,10 @@
       "longitude": -68.54048156732163,
       "latitude": 48.44335556041607
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-745-387-8752x185",
@@ -470,10 +470,10 @@
       "longitude": -71.04003906275365,
       "latitude": 48.421310425085906
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": true,
     "phoneNumber": "260-736-6207",
@@ -486,10 +486,10 @@
       "longitude": -71.21976470969497,
       "latitude": 46.85663604706163
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "938-233-7972x59963",
@@ -502,10 +502,10 @@
       "longitude": -72.53710174524005,
       "latitude": 46.342796325428104
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "(477)997-1180",
@@ -518,10 +518,10 @@
       "longitude": -71.91508483870761,
       "latitude": 45.40424346936933
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "536.861.7183",
@@ -534,10 +534,10 @@
       "longitude": -73.83367157026768,
       "latitude": 45.44855117799336
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "322-745-7780",
@@ -550,10 +550,10 @@
       "longitude": -73.62880706776694,
       "latitude": 45.49781036401238
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "001-264-575-1784x865",
@@ -566,10 +566,10 @@
       "longitude": -73.56356048562539,
       "latitude": 45.52535629250618
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(620)548-0164x7072",
@@ -582,10 +582,10 @@
       "longitude": -73.68765258757053,
       "latitude": 45.54759979234269
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": true,
     "phoneNumber": "2709649980",
@@ -598,10 +598,10 @@
       "longitude": -73.5584640501678,
       "latitude": 45.574214935574446
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "613.996.1771x7230",
@@ -614,10 +614,10 @@
       "longitude": -75.72293090842402,
       "latitude": 45.4801902769372
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(230)851-7131",
@@ -630,10 +630,10 @@
       "longitude": -79.02100372284069,
       "latitude": 48.24335861202864
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "563-477-1357x1068",
@@ -646,10 +646,10 @@
       "longitude": -68.25695037817334,
       "latitude": 49.19044113171666
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "001-976-513-6097x1920",
@@ -662,10 +662,10 @@
       "longitude": -64.49665069554766,
       "latitude": 48.812942504605665
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "795-216-3293x58405",
@@ -678,10 +678,10 @@
       "longitude": -73.71082305917095,
       "latitude": 45.60332107568234
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(336)448-3036x97338",
@@ -694,10 +694,10 @@
       "longitude": -73.44107055683725,
       "latitude": 46.01818466190194
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "214-349-9401x45077",
@@ -710,10 +710,10 @@
       "longitude": -74.00019073477253,
       "latitude": 45.76557159396622
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "781.346.2826x501",
@@ -726,10 +726,10 @@
       "longitude": -73.48420715372411,
       "latitude": 45.49775314344991
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "235.698.5146x067",
@@ -742,10 +742,10 @@
       "longitude": -72.95947265589498,
       "latitude": 45.634834289512746
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-226-498-0867x37873",
@@ -758,10 +758,10 @@
       "longitude": -73.76344299354416,
       "latitude": 45.345661163232975
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "(298)507-7426x057",
@@ -774,10 +774,10 @@
       "longitude": -71.0452041627366,
       "latitude": 46.464801788363204
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "750.210.2702x0964",
@@ -790,10 +790,10 @@
       "longitude": -74.01437377934764,
       "latitude": 45.77748870864193
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "363-265-2592x53604",
@@ -806,10 +806,10 @@
       "longitude": -73.72864532448911,
       "latitude": 45.687183380127664
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "612.666.5658x43130",
@@ -822,10 +822,10 @@
       "longitude": -73.72864532448911,
       "latitude": 45.687183380127664
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "(245)449-3475x416",
@@ -838,10 +838,10 @@
       "longitude": -73.72864532448911,
       "latitude": 45.687183380127664
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "643-274-6309x1276",
@@ -854,10 +854,10 @@
       "longitude": -74.15699005154639,
       "latitude": 45.889190673910555
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "+1-903-282-6346",
@@ -870,10 +870,10 @@
       "longitude": -73.67736053456312,
       "latitude": 45.605609893568335
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-442-782-3919x44200",
@@ -886,10 +886,10 @@
       "longitude": -61.873088836624326,
       "latitude": 47.373130798200314
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "660.269.0830x95455",
@@ -902,10 +902,10 @@
       "longitude": -71.26103973410676,
       "latitude": 46.788150787077534
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "615-844-9109",
@@ -918,10 +918,10 @@
       "longitude": -73.56062316891949,
       "latitude": 45.54654312131046
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "7922753192",
@@ -934,10 +934,10 @@
       "longitude": -71.21099090563747,
       "latitude": 46.81539154033211
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "(271)243-3071x8357",
@@ -950,10 +950,10 @@
       "longitude": -73.51470184316088,
       "latitude": 45.50154113756545
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "+1-348-832-8109",
@@ -966,10 +966,10 @@
       "longitude": -73.70222473112274,
       "latitude": 46.05086135890969
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": true,
     "phoneNumber": "(676)569-9909x51338",
@@ -982,10 +982,10 @@
       "longitude": -73.26149749773009,
       "latitude": 45.31158065765484
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "4542951663",
@@ -998,10 +998,10 @@
       "longitude": -73.52890777591112,
       "latitude": 45.55945968643905
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "224-296-0309",
@@ -1014,10 +1014,10 @@
       "longitude": -73.73764038090616,
       "latitude": 45.548728942677705
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "618-276-5925x198",
@@ -1030,10 +1030,10 @@
       "longitude": -73.63413238497579,
       "latitude": 45.45834350567118
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "374.508.1454x6320",
@@ -1046,10 +1046,10 @@
       "longitude": -73.54069519059159,
       "latitude": 45.54978561413991
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "993-415-9545x54563",
@@ -1062,10 +1062,10 @@
       "longitude": -73.58383941687015,
       "latitude": 45.529449463174224
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "410-638-7348",
@@ -1078,10 +1078,10 @@
       "longitude": -73.65133666956558,
       "latitude": 45.589939117465555
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "828-555-8542x430",
@@ -1094,10 +1094,10 @@
       "longitude": -73.9998703003208,
       "latitude": 45.12634277322256
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": true,
     "phoneNumber": "001-644-907-7973x004",
@@ -1110,10 +1110,10 @@
       "longitude": -73.78656768789602,
       "latitude": 45.44864654546305
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "704-923-2701x1701",
@@ -1126,10 +1126,10 @@
       "longitude": -73.66305541972068,
       "latitude": 45.56741714450675
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": true,
     "phoneNumber": "(478)547-2887x2931",
@@ -1142,10 +1142,10 @@
       "longitude": -71.25660705572774,
       "latitude": 46.78806686378135
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "389-401-3981",
@@ -1158,10 +1158,10 @@
       "longitude": -71.25308227496203,
       "latitude": 46.79664993316656
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "001-959-573-2403x00703",
@@ -1174,10 +1174,10 @@
       "longitude": -73.57171630895454,
       "latitude": 45.58013916009506
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "850-884-3082x097",
@@ -1190,10 +1190,10 @@
       "longitude": -73.57781982411757,
       "latitude": 45.573764800985664
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-916-601-4983",
@@ -1206,10 +1206,10 @@
       "longitude": -73.64974212669861,
       "latitude": 45.59083557137844
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(286)987-4641",
@@ -1222,10 +1222,10 @@
       "longitude": -73.55689239457763,
       "latitude": 45.47834777824333
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "472.709.3959x1634",
@@ -1238,10 +1238,10 @@
       "longitude": -71.9151916501915,
       "latitude": 45.4101142880779
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "001-218-469-6691",
@@ -1254,10 +1254,10 @@
       "longitude": -73.60688018791323,
       "latitude": 45.47521591161731
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "388.451.0768x404",
@@ -1270,10 +1270,10 @@
       "longitude": -73.66186523461424,
       "latitude": 45.496360779077136
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "(926)320-6567x5440",
@@ -1286,10 +1286,10 @@
       "longitude": -73.58903503441995,
       "latitude": 45.49704742448533
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(440)925-0479x7368",
@@ -1302,10 +1302,10 @@
       "longitude": -73.5627212525375,
       "latitude": 45.46018600436017
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "001-592-390-7340x11529",
@@ -1318,10 +1318,10 @@
       "longitude": -73.70222473112274,
       "latitude": 46.05086135890969
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "(395)805-6414",
@@ -1334,10 +1334,10 @@
       "longitude": -73.62880706776694,
       "latitude": 45.49781036401238
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": true,
     "phoneNumber": "(226)470-7969",
@@ -1350,10 +1350,10 @@
       "longitude": -73.62494659466437,
       "latitude": 45.50315475438109
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "766.667.8440x0729",
@@ -1366,10 +1366,10 @@
       "longitude": -74.33926391621652,
       "latitude": 45.65664672852218
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "418-336-9199x959",
@@ -1382,10 +1382,10 @@
       "longitude": -68.40527343716633,
       "latitude": 58.10704803447119
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(571)206-4204",
@@ -1398,10 +1398,10 @@
       "longitude": -73.624137878245,
       "latitude": 45.49494171147897
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "7622040514",
@@ -1414,10 +1414,10 @@
       "longitude": -73.5336151123916,
       "latitude": 45.65605545072869
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "250-485-5920",
@@ -1430,10 +1430,10 @@
       "longitude": -73.73436737096507,
       "latitude": 45.54867553711517
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "4567442832",
@@ -1446,10 +1446,10 @@
       "longitude": -73.55812072754092,
       "latitude": 45.50955581692069
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-905-374-4748x18498",
@@ -1462,10 +1462,10 @@
       "longitude": -73.67992401107536,
       "latitude": 45.51700210577909
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "970-456-9600x5955",
@@ -1478,10 +1478,10 @@
       "longitude": -71.32139587436683,
       "latitude": 46.75403213498259
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "552-777-0396",
@@ -1494,10 +1494,10 @@
       "longitude": -73.66842651327978,
       "latitude": 45.47154998799343
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "972-453-9910",
@@ -1510,10 +1510,10 @@
       "longitude": -71.15673828143875,
       "latitude": 46.81910324111637
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "+1-371-324-8638x1104",
@@ -1526,10 +1526,10 @@
       "longitude": -73.69293975871913,
       "latitude": 45.54544830331877
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "001-739-846-3483x707",
@@ -1542,10 +1542,10 @@
       "longitude": -73.65734100353475,
       "latitude": 45.473842620584804
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": true,
     "phoneNumber": "815.829.4171x2234",
@@ -1558,10 +1558,10 @@
       "longitude": -73.60199737542347,
       "latitude": 45.471775054922645
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-285-679-8305x023",
@@ -1574,10 +1574,10 @@
       "longitude": -73.17335510298788,
       "latitude": 45.77806854262736
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "4844956842",
@@ -1590,10 +1590,10 @@
       "longitude": -71.29766082778002,
       "latitude": 46.779090881512644
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-266-862-1716x4475",
@@ -1606,10 +1606,10 @@
       "longitude": -73.74103546111455,
       "latitude": 45.541816711474844
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "285.437.2577",
@@ -1622,10 +1622,10 @@
       "longitude": -73.58435821550631,
       "latitude": 45.44213485693992
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-327-209-8268x9271",
@@ -1638,10 +1638,10 @@
       "longitude": -73.63375854478208,
       "latitude": 45.49298477155571
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "541.509.9123x49575",
@@ -1654,10 +1654,10 @@
       "longitude": -71.89510345463775,
       "latitude": 45.390666961842314
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "543.538.9748x197",
@@ -1670,10 +1670,10 @@
       "longitude": -73.57250976569216,
       "latitude": 45.49183654775288
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "+1-508-617-1981",
@@ -1686,10 +1686,10 @@
       "longitude": -78.89573669457249,
       "latitude": 53.78265380846661
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "812.902.2826",
@@ -1702,10 +1702,10 @@
       "longitude": -71.25159454357895,
       "latitude": 46.77347946145923
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": true,
     "phoneNumber": "995-642-6339x2316",
@@ -1718,10 +1718,10 @@
       "longitude": -73.63565063482399,
       "latitude": 45.61357879652601
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(927)668-8605",
@@ -1734,10 +1734,10 @@
       "longitude": -66.40366363539509,
       "latitude": 50.22117614766928
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-308-789-6523",
@@ -1750,10 +1750,10 @@
       "longitude": -71.35711669892024,
       "latitude": 46.86255645770677
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(595)891-1081x49772",
@@ -1766,10 +1766,10 @@
       "longitude": -72.22927856480855,
       "latitude": 48.5763092041226
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "533-549-2154x5756",
@@ -1782,10 +1782,10 @@
       "longitude": -73.67635345485768,
       "latitude": 45.41387557976512
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "001-828-647-2631x8707",
@@ -1798,10 +1798,10 @@
       "longitude": -73.88355255122109,
       "latitude": 45.418949127111134
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-673-206-7712x635",
@@ -1814,10 +1814,10 @@
       "longitude": -77.27579498252422,
       "latitude": 60.037651061810564
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "997.231.1377",
@@ -1830,10 +1830,10 @@
       "longitude": -73.60015869112353,
       "latitude": 45.47716522233155
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "906-978-3877x85618",
@@ -1846,10 +1846,10 @@
       "longitude": -71.03949737504406,
       "latitude": 48.423099518067836
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "6524560029",
@@ -1862,10 +1862,10 @@
       "longitude": -73.64744567889618,
       "latitude": 45.68655014068396
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(474)577-6292x52803",
@@ -1878,10 +1878,10 @@
       "longitude": -73.29598999021849,
       "latitude": 45.46135711661202
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "885-851-9076",
@@ -1894,10 +1894,10 @@
       "longitude": -74.60250854472832,
       "latitude": 45.008739471744065
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "984-585-9179",
@@ -1910,10 +1910,10 @@
       "longitude": -71.34243011449239,
       "latitude": 46.79816818213518
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "406.338.4071",
@@ -1926,10 +1926,10 @@
       "longitude": -71.18869018559006,
       "latitude": 46.79914474461352
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-418-674-4195x2615",
@@ -1942,10 +1942,10 @@
       "longitude": -73.49438476585587,
       "latitude": 45.446056365786234
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "001-617-387-2584x1477",
@@ -1958,10 +1958,10 @@
       "longitude": -71.25952148425854,
       "latitude": 46.85052490234728
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "(866)252-3049",
@@ -1974,10 +1974,10 @@
       "longitude": -73.14367675756556,
       "latitude": 46.02822494494574
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "493-257-8700",
@@ -1990,10 +1990,10 @@
       "longitude": -74.04125976560819,
       "latitude": 45.4034423826112
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "381-334-8226",
@@ -2006,10 +2006,10 @@
       "longitude": -71.2359771724644,
       "latitude": 46.82904052732235
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "247-929-5059x282",
@@ -2022,10 +2022,10 @@
       "longitude": -71.28861999501274,
       "latitude": 46.757755279833326
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-1"
     },
     "isFavorite": false,
     "phoneNumber": "933-893-7380x030",
@@ -2038,10 +2038,10 @@
       "longitude": -73.49275970452375,
       "latitude": 45.63380050637593
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-316-837-3926x6475",
@@ -2054,10 +2054,10 @@
       "longitude": -73.68330383339863,
       "latitude": 45.433078766093686
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "237-787-0940x4908",
@@ -2070,10 +2070,10 @@
       "longitude": -71.64777374261877,
       "latitude": 45.903816223416285
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-2",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-B",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "+1-912-610-6725x3294",
@@ -2086,10 +2086,10 @@
       "longitude": -73.56874084439175,
       "latitude": 45.51497268687657
     },
-    "lsa": "Dorval - Lachine - Lasalle",
+    "lsa": "LSA-1",
     "gmfInfo": {
-      "gmfType": "GMF-U",
-      "gmfGrade": "Niveau 2"
+      "gmfType": "GMF-A",
+      "gmfGrade": "N-2"
     },
     "isFavorite": false,
     "phoneNumber": "542-887-6794x9779",
