@@ -13,6 +13,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from '@/components/ui/popover'
+import { LSA_VALUES } from '@/lib/types'
 
 type MultiSelectProps = {
   options: { label: string, value: string }[]
@@ -90,12 +91,7 @@ function LSAControl() {
 
   return (
     <MultiSelect
-      options={[
-        { label: 'Dorval-Lachine-Lasalle', value: 'Dorval-Lachine-Lasalle' },
-        { label: 'Banana', value: 'banana' },
-        { label: 'Cherry', value: 'cherry' },
-        { label: 'Mango', value: 'mango' },
-      ]}
+      options={LSA_VALUES.map(lsa => ({ label: lsa, value: lsa }))}
       value={selected}
       onChange={setSelected}
     />

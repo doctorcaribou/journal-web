@@ -1,5 +1,9 @@
 import { z } from 'zod'
 
+export const LSA_VALUES = ['LSA-1', 'LSA-2'] as const
+export const GMF_TYPES = ['GMF-A', 'GMF-B'] as const
+const GMF_GRADES = ['N-1', 'N-2'] as const
+
 const clinicSchema = z.object({
   id: z.number(),
   name: z.string(),
@@ -7,10 +11,10 @@ const clinicSchema = z.object({
     longitude: z.number(),
     latitude: z.number(),
   }),
-  lsa: z.enum(['LSA-1', 'LSA-2']),
+  lsa: z.enum(LSA_VALUES),
   gmfInfo: z.object({
-    gmfType: z.enum(['GMF-A', 'GMF-B']),
-    gmfGrade: z.enum(['N-1', 'N-2']),
+    gmfType: z.enum(GMF_TYPES),
+    gmfGrade: z.enum(GMF_GRADES),
   }),
   isFavorite: z.boolean(),
   phoneNumber: z.string(),

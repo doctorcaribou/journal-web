@@ -6,10 +6,11 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu'
+import { GMF_TYPES } from '@/lib/types'
 
 function GMFControl() {
   const [selected, setSelected] = useState<string>('Select')
-  const options = ['GMF - A', 'GMF - B', 'GMF - C', 'GMF - D']
+  const options = [...GMF_TYPES]
   return (
     <>
       <DropdownMenu>
