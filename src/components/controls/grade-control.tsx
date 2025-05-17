@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import type { GmfGrade } from '@/lib/types'
 
 import {
   DropdownMenu,
@@ -8,18 +8,23 @@ import {
 } from '@/components/ui/dropdown-menu'
 import { GMF_GRADES } from '@/lib/types'
 
-function GradeControl() {
-  const [selected, setSelected] = useState<string>('Select')
+function GradeControl({
+  selectedGmfGrade,
+  setSelectedGmfGrade,
+}: {
+  selectedGmfGrade: GmfGrade | null
+  setSelectedGmfGrade: React.Dispatch<React.SetStateAction<GmfGrade | null>>
+}) {
   const options = [...GMF_GRADES]
   return (
     <>
       <DropdownMenu>
         <DropdownMenuTrigger className="text-gray-400">
-          {selected}
+          {selectedGmfGrade ?? 'Select'}
         </DropdownMenuTrigger>
         <DropdownMenuContent className="mt-4 border-orange-300 rounded-xl">
           {options.map(option => (
-            <DropdownMenuItem key={option} onSelect={() => setSelected(option)}>
+            <DropdownMenuItem key={option} onSelect={() => setSelectedGmfGrade(option)}>
               {option}
             </DropdownMenuItem>
           ))}

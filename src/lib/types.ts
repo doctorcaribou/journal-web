@@ -24,6 +24,8 @@ const clinicSchema = z.object({
 export type Clinic = z.infer<typeof clinicSchema>
 export type Lsa = z.infer<typeof clinicSchema.shape.lsa>
 export type GmfInfo = z.infer<typeof clinicSchema.shape.gmfInfo>
+export type GmfType = z.infer<typeof clinicSchema.shape.gmfInfo.shape.gmfType>
+export type GmfGrade = z.infer<typeof clinicSchema.shape.gmfInfo.shape.gmfGrade>
 
 const clinicArraySchema = z.array(clinicSchema.strict())
 export { clinicArraySchema }

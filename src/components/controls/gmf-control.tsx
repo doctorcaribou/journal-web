@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import type { GmfType } from '@/lib/types'
 
 import {
   DropdownMenu,
@@ -8,18 +8,23 @@ import {
 } from '@/components/ui/dropdown-menu'
 import { GMF_TYPES } from '@/lib/types'
 
-function GMFControl() {
-  const [selected, setSelected] = useState<string>('Select')
+function GMFControl({
+  selectedGmfType,
+  setSelectedGmfType,
+}: {
+  selectedGmfType: GmfType | null
+  setSelectedGmfType: React.Dispatch<React.SetStateAction<GmfType | null>>
+}) {
   const options = [...GMF_TYPES]
   return (
     <>
       <DropdownMenu>
         <DropdownMenuTrigger className="text-gray-400">
-          {selected}
+          {selectedGmfType ?? 'Select'}
         </DropdownMenuTrigger>
         <DropdownMenuContent className="mt-4 border-orange-300 rounded-xl">
           {options.map(option => (
-            <DropdownMenuItem key={option} onSelect={() => setSelected(option)}>
+            <DropdownMenuItem key={option} onSelect={() => setSelectedGmfType(option)}>
               {option}
             </DropdownMenuItem>
           ))}

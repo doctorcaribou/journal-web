@@ -1,16 +1,22 @@
+import { useState } from 'react'
+
 import type {
   ClinicDetailsProps,
 } from '@/components/clinic-display/clinic-details'
 import type {
   RowClinic,
 } from '@/components/clinic-display/clinics-table'
-import type { Clinic } from '@/lib/types'
+import type { Clinic, GmfGrade, GmfType, Lsa } from '@/lib/types'
 
+import data from '@/assets/data.json'
 import ClinicDetails from '@/components/clinic-display/clinic-details'
 import ClinicsTable from '@/components/clinic-display/clinics-table'
 import Controls from '@/components/controls/controls'
+import { clinicArraySchema } from '@/lib/types'
 
 import ClinicsMap from './clinics-map'
+
+const filteredClinics = clinicArraySchema.parse(data)
 
 function getDetails(
   clinics: Clinic[],
@@ -41,22 +47,24 @@ function getRow(clinic: Clinic): RowClinic {
   }
 }
 
-type ClinicDisplayProps = {
-  filteredClinics: Clinic[]
-  selectedId: number | null
-  setSelectedId: (id: number | null) => void
-}
-
-function ClinicDisplay({
-  filteredClinics,
-  selectedId,
-  setSelectedId,
-}: ClinicDisplayProps) {
+function ClinicDisplay() {
+  const [selectedId, setSelectedId] = useState<number | null>(null)
+  const [selectedLsa, setSelectedLsa] = useState<Array<Lsa>>([])
+  const [selectedGmfType, setSelectedGmfType] = useState<GmfType | null>(null)
+  const [selectedGmfGrade, setSelectedGmfGrade] = useState<GmfGrade | null>(null)
   const details = getDetails(filteredClinics, selectedId)
 
   return (
     <>
-      <Controls className="basis-16 flex-shrink-0 m-2" />
+      <Controls
+        selectedLsa={selectedLsa}
+        setSelectedLsa={setSelectedLsa}
+        selectedGmfType={selectedGmfType}
+        setSelectedGmfType={setSelectedGmfType}
+        selectedGmfGrade={selectedGmfGrade}
+        setSelectedGmfGrade={setSelectedGmfGrade}
+        className="basis-16 flex-shrink-0 m-2"
+      />
       <div className="flex-grow flex flex-wrap gap-4 m-2">
         {details !== null
           ? (

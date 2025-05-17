@@ -1,6 +1,8 @@
 import { CommandList } from 'cmdk'
 import React, { useState } from 'react'
 
+import type { Lsa } from '@/lib/types'
+
 import { Badge } from '@/components/ui/badge'
 import {
   Command,
@@ -16,9 +18,9 @@ import {
 import { LSA_VALUES } from '@/lib/types'
 
 type MultiSelectProps = {
-  options: { label: string, value: string }[]
-  value: string[]
-  onChange: (value: string[]) => void
+  options: { label: Lsa, value: Lsa }[]
+  value: Lsa[]
+  onChange: (value: Array<Lsa>) => void
 }
 
 const MultiSelect: React.FC<MultiSelectProps> = ({
@@ -28,7 +30,7 @@ const MultiSelect: React.FC<MultiSelectProps> = ({
 }) => {
   const [open, setOpen] = useState(false)
 
-  const toggleValue = (val: string) => {
+  const toggleValue = (val: Lsa) => {
     if (value.includes(val)) {
       onChange(value.filter(v => v !== val))
     }
@@ -86,14 +88,15 @@ const MultiSelect: React.FC<MultiSelectProps> = ({
   )
 }
 
-function LSAControl() {
-  const [selected, setSelected] = useState<string[]>([])
-
+function LSAControl({ selectedLsa, setSelectedLsa }: {
+  selectedLsa: Array<Lsa>
+  setSelectedLsa: React.Dispatch<React.SetStateAction<Array<Lsa>>>
+}) {
   return (
     <MultiSelect
       options={LSA_VALUES.map(lsa => ({ label: lsa, value: lsa }))}
-      value={selected}
-      onChange={setSelected}
+      value={selectedLsa}
+      onChange={setSelectedLsa}
     />
   )
 }
