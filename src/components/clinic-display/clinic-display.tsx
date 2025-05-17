@@ -16,7 +16,7 @@ import { clinicArraySchema } from '@/lib/types'
 
 import ClinicsMap from './clinics-map'
 
-const filteredClinics = clinicArraySchema.parse(data)
+const allClinics = clinicArraySchema.parse(data)
 
 function getDetails(
   clinics: Clinic[],
@@ -52,6 +52,12 @@ function ClinicDisplay() {
   const [selectedLsa, setSelectedLsa] = useState<Array<Lsa>>([])
   const [selectedGmfType, setSelectedGmfType] = useState<GmfType | null>(null)
   const [selectedGmfGrade, setSelectedGmfGrade] = useState<GmfGrade | null>(null)
+
+  const filteredClinics = allClinics.filter(clinic =>
+    ((selectedLsa.length === 0 || selectedLsa.includes(clinic.lsa))
+      && (selectedGmfType === null || clinic.gmfInfo.gmfType === selectedGmfType)
+      && (selectedGmfGrade === null || clinic.gmfInfo.gmfGrade === selectedGmfGrade)),
+  )
   const details = getDetails(filteredClinics, selectedId)
 
   return (
