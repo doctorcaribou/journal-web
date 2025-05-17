@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 
 import type {
   ClinicDetailsProps,
@@ -47,17 +47,28 @@ function getRow(clinic: Clinic): RowClinic {
   }
 }
 
+export type AppliedFilter = {
+  selectedLsa: Array<Lsa>
+  selectedGmfType: GmfType | null
+  selectedGmfGrade: GmfGrade | null
+}
+
 function ClinicDisplay() {
   const [selectedId, setSelectedId] = useState<number | null>(null)
   const [selectedLsa, setSelectedLsa] = useState<Array<Lsa>>([])
   const [selectedGmfType, setSelectedGmfType] = useState<GmfType | null>(null)
   const [selectedGmfGrade, setSelectedGmfGrade] = useState<GmfGrade | null>(null)
 
-  const filteredClinics = allClinics.filter(clinic =>
-    ((selectedLsa.length === 0 || selectedLsa.includes(clinic.lsa))
-      && (selectedGmfType === null || clinic.gmfInfo.gmfType === selectedGmfType)
-      && (selectedGmfGrade === null || clinic.gmfInfo.gmfGrade === selectedGmfGrade)),
-  )
+  const [appliedFilters, setAppliedFilters] = useState<AppliedFilter>({ selectedLsa: [], selectedGmfType: null, selectedGmfGrade: null })
+
+  const filteredClinics = useMemo(() => {
+    return allClinics.filter(clinic =>
+      ((appliedFilters.selectedLsa.length === 0 || appliedFilters.selectedLsa.includes(clinic.lsa))
+        && (appliedFilters.selectedGmfType === null || clinic.gmfInfo.gmfType === appliedFilters.selectedGmfType)
+        && (appliedFilters.selectedGmfGrade === null || clinic.gmfInfo.gmfGrade === appliedFilters.selectedGmfGrade)),
+    )
+  }, [appliedFilters])
+
   const details = getDetails(filteredClinics, selectedId)
 
   return (
@@ -69,6 +80,7 @@ function ClinicDisplay() {
         setSelectedGmfType={setSelectedGmfType}
         selectedGmfGrade={selectedGmfGrade}
         setSelectedGmfGrade={setSelectedGmfGrade}
+        setAppliedFilters={setAppliedFilters}
         className="basis-16 flex-shrink-0 m-2"
       />
       <div className="flex-grow flex flex-wrap gap-4 m-2">

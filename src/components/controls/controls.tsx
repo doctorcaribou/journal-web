@@ -7,6 +7,8 @@ import type { GmfGrade, GmfType, Lsa } from '@/lib/types'
 import { Separator } from '@/components/ui/separator'
 import { cn } from '@/lib/utils'
 
+import type { AppliedFilter } from '../clinic-display/clinic-display'
+
 import GMFControl from './gmf-control'
 import GradeControl from './grade-control'
 import LSAControl from './lsa-control'
@@ -72,6 +74,7 @@ function Controls({
   setSelectedGmfType,
   selectedGmfGrade,
   setSelectedGmfGrade,
+  setAppliedFilters,
 }:
 {
   className: string
@@ -81,6 +84,7 @@ function Controls({
   setSelectedGmfType: React.Dispatch<React.SetStateAction<GmfType | null>>
   selectedGmfGrade: GmfGrade | null
   setSelectedGmfGrade: React.Dispatch<React.SetStateAction<GmfGrade | null>>
+  setAppliedFilters: React.Dispatch<React.SetStateAction<AppliedFilter>>
 }) {
   return (
     <div
@@ -103,7 +107,10 @@ function Controls({
           setSelectedGmfGrade={setSelectedGmfGrade}
         />
         <div className="flex items-center justify-center rounded-full h-10 min-w-10 bg-blue-600 text-white self-center">
-          <Search className="h-5 w-5" />
+          <Search
+            className="h-5 w-5"
+            onClick={() => { setAppliedFilters({ selectedLsa, selectedGmfType, selectedGmfGrade }) }}
+          />
         </div>
       </div>
     </div>
