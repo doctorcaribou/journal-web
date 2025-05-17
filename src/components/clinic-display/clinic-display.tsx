@@ -1,9 +1,6 @@
 import { useMemo, useState } from 'react'
 
 import type {
-  ClinicDetailsProps,
-} from '@/components/clinic-display/clinic-details'
-import type {
   RowClinic,
 } from '@/components/clinic-display/clinics-table'
 import type { Clinic, GmfGrade, GmfType, Lsa } from '@/lib/types'
@@ -21,7 +18,7 @@ const allClinics = clinicArraySchema.parse(data)
 function getDetails(
   clinics: Clinic[],
   selectedId: number | null,
-): ClinicDetailsProps | null {
+): Clinic | null {
   if (selectedId === null)
     return null
 
@@ -29,12 +26,7 @@ function getDetails(
   if (clinic === undefined)
     return null
 
-  return {
-    name: clinic.name,
-    phoneNumber: clinic.phoneNumber,
-    email: clinic.email,
-    isFavorite: clinic.isFavorite,
-  }
+  return clinic
 }
 
 function getRow(clinic: Clinic): RowClinic {
@@ -69,7 +61,7 @@ function ClinicDisplay() {
     )
   }, [appliedFilters])
 
-  const details = getDetails(filteredClinics, selectedId)
+  const selectedClinic = getDetails(filteredClinics, selectedId)
 
   return (
     <>
@@ -85,11 +77,10 @@ function ClinicDisplay() {
       />
       <div className="flex-grow flex flex-wrap gap-4 m-2">
         <div className="flex-grow basis-[450px] min-h-[450px] overflow-y-auto max-h-screen">
-          {details !== null
+          {selectedClinic !== null
             ? (
                 <ClinicDetails
-                  props={details}
-                  isVisible={selectedId !== null}
+                  selectedClinic={selectedClinic}
                   onBack={() => setSelectedId(null)}
                 />
               )
@@ -97,7 +88,6 @@ function ClinicDisplay() {
                 <ClinicsTable
                   clinics={filteredClinics.map(getRow)}
                   onSelect={setSelectedId}
-                  isVisible={selectedId === null}
                 />
               )}
         </div>
